@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm currently a senior attending University and have 9 years of programming Experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, physics and math. I want to focus doing research on those topic since I will be needing them later on my career.
 
 <!--
 **RonaldsonBellande/RonaldsonBellande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
