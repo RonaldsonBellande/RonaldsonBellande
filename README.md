@@ -11,7 +11,7 @@ I'm currently a senior attending University and have 9 years of programming Expe
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/Python.png" alt="python" width="57" height="55"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/JAVA.png" alt="JAVA" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/SQL.png" alt="SQL" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/blob/master/label/SQL.png" alt="SQL" width="57" height="55"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/HTML5.png" alt="html5" width="57" height="55"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/CSS3.png" alt="css3" width="57" height="55"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/JavaScript.png" alt="javascript" width="57" height="55"/>
