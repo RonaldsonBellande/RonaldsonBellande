@@ -7,7 +7,7 @@ I'm currently a senior attending University and have 9 years of programming Expe
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
-<img src="https://github.com/RonaldsonBelande/RonaldsonBellande/label/C.svg" alt="c" width="50" height="50"/> 
+<img src="https://github.com/RonaldsonBellande/label/C.svg" alt="c" width="50" height="50"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/Python.png" alt="python" width="57" height="55"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/master/label/JAVA.png" alt="JAVA" width="57" height="55"/> 
