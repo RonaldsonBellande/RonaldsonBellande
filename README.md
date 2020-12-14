@@ -3,8 +3,7 @@
 ## 📚 About Me &  My Interest:
 I'm currently a senior attending University and have 9 years of programming Experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, physics and math. I want to focus doing research on those topic since I will be needing them later on my career.
 
-<a href = "http://itsabhinav.me/">itsabhinav.me</a>
-<a href="https://github.com/logicinfinite/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/University.gif"></a>.
+<a href="https://github.com/logicinfinite/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/university.gif"></a>.
   - 📧 You can reach me at: ronaldsonbellande@gmai.com
   - 💼 _I'm actively researching
 <p>&nbsp;</p>
