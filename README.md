@@ -3,6 +3,17 @@
 ## 📚 About Me &  My Interest:
 I'm currently a senior attending University and have 9 years of programming Experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, physics and math. I want to focus doing research on those topic since I will be needing them later on my career.
 
+<a href = "http://itsabhinav.me/">itsabhinav.me</a>
+<a href="https://github.com/logicinfinite/"><img align="right" width="350" height="213" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
+  - 👨‍🏫 I'm a final year Computer Science Student at KIIT UNIVERSITY .
+  - 🎯 I'm currently  learning Flutter.
+  - 📧 You can reach me at: ghoshabhinavjio@gmail.com
+  - :book: Visit my Blog on  dev.to : <a href = "https://dev.to/the_unconventional_coder"> My Blog .</a>
+  - :anchor: Check out my latest creation <a href = "https://www.producthunt.com/upcoming/instacheckin/"> here </a>
+  - 💼 _I'm actively seeking internship opportunities._
+  
+<p>&nbsp;</p>
+
 
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
