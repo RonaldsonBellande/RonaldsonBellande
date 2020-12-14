@@ -7,7 +7,6 @@ I'm currently a senior attending University and have 9 years of programming Expe
 <a href="https://github.com/logicinfinite/"><img align="right" width="350" height="213" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>.
   - 🎯 I'm currently  learning Flutter.
   - 📧 You can reach me at: ronaldsonbellande@gmai.com
-  - :anchor: Check out my latest creation <a href = "https://www.producthunt.com/upcoming/instacheckin/"> here </a>
   - 💼 _I'm actively researching
 <p>&nbsp;</p>
 
