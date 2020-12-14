@@ -1,5 +1,13 @@
 ### I'm currently a senior attending University and have 9 years of programming Experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, physics and math. I want to focus doing research on those topic since I will be needing them later on my career.
 
+
+
+## 📈 My Stats:     <a href="https://github.com/SABERGLOW"> <img src="https://komarev.com/ghpvc/?username=SABERGLOW&label=Profile+Views&color=2e8b57&style=flat" /></a>
+<p align="center">
+<a href="https://github.com/RonaldsonBellande">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldsonBellande&count_private=true&show_icons=true&theme=gruvbox" /></a>
+<a href="https://github.com/RonaldsonBellande/">
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldsonBellande&layout=compact&theme=gruvbox" /></a>
 <!--
 **RonaldsonBellande/RonaldsonBellande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
