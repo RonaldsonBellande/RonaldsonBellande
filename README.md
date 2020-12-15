@@ -1,4 +1,5 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
+<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/title.gif" width=100%  align="left"/>
 
 ## 📚 About Me &  My Interest:
 I'm currently a senior attending University and have 9 years of programming Experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, Physics and Math. I want to focus doing research on those topic since I will be needing them later on my career.
@@ -13,7 +14,7 @@ I'm currently a senior attending University and have 9 years of programming Expe
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
-<img src="https://github.com/SABERGLOW/SABERGLOW/tree/master/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/C.svg" alt="c" width="50" height="50"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/Python.png" alt="python" width="57" height="55"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/JAVA.png" alt="JAVA" width="57" height="55"/> 
