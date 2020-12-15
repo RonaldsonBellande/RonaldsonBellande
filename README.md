@@ -1,7 +1,7 @@
-<h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
 ## 📚 About Me &  My Interest:
-I'm currently a senior attending University and have 9 years of programming Experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, physics and math. I want to focus doing research on those topic since I will be needing them later on my career.
+I'm currently a senior attending University and have 9 years of programming Experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, Physics and Math. I want to focus doing research on those topic since I will be needing them later on my career.
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/universe.gif"></a>.
   - 📧 You can reach me at: ronaldsonbellande@gmai.com
