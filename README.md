@@ -6,6 +6,7 @@ I'm currently a senior attending University and have 9 years of programming Expe
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>.
   - 📧 You can reach me at: ronaldsonbellande@gmai.com
   - 💼 _I'm actively researching and learning new technology
+  - ⚡ Fun fact I love to play chess and learn about the universe
 <p>&nbsp;</p>
 
 
