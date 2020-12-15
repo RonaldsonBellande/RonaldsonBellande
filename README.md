@@ -1,11 +1,11 @@
-<h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
 ## 📚 About Me &  My Interest:
-I'm currently a senior attending University and have 9 years of programming Experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, physics and math. I want to focus doing research on those topic since I will be needing them later on my career.
+I'm currently a senior attending University and have 9 years of programming Experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, Physics and Math. I want to focus doing research on those topic since I will be needing them later on my career.
 
-<a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/universe.gif"></a>.
+<a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>.
   - 📧 You can reach me at: ronaldsonbellande@gmai.com
-  - 💼 _I'm actively researching
+  - 💼 _I'm actively researching and learning new technology
 <p>&nbsp;</p>
 
 
@@ -13,15 +13,15 @@ I'm currently a senior attending University and have 9 years of programming Expe
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
-<img src="github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/C.svg" alt="c" width="50" height="50"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/Python.png" alt="python" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/JAVA.png" alt="JAVA" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/SQL.png" alt="SQL" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/HTML5.png" alt="html5" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/CSS3.png" alt="css3" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/JavaScript.png" alt="javascript" width="57" height="55"/>
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/JavaScript.png" alt="Jupy" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/C.svg" alt="c" width="50" height="50"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/Python.png" alt="python" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/JAVA.png" alt="JAVA" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/SQL.png" alt="SQL" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/HTML5.png" alt="html5" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/CSS3.png" alt="css3" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/JavaScript.png" alt="javascript" width="57" height="55"/>
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/Csharp.png" alt="csharp" width="70" height="75"/> 
 
 <p>&nbsp;</p>
 <p align="center">
