@@ -13,15 +13,15 @@ I'm currently a senior attending University and have 9 years of programming Expe
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/C.svg" alt="c" width="50" height="50"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/Python.png" alt="python" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/JAVA.png" alt="JAVA" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/SQL.png" alt="SQL" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/HTML5.png" alt="html5" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/CSS3.png" alt="css3" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/JavaScript.png" alt="javascript" width="57" height="55"/>
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/JavaScript.png" alt="Jupy" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/C.svg" alt="c" width="50" height="50"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/Python.png" alt="python" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/JAVA.png" alt="JAVA" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/SQL.png" alt="SQL" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/HTML5.png" alt="html5" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/CSS3.png" alt="css3" width="57" height="55"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/JavaScript.png" alt="javascript" width="57" height="55"/>
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/JavaScript.png" alt="Jupy" width="57" height="55"/> 
 
 <p>&nbsp;</p>
 <p align="center">
