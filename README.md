@@ -5,7 +5,7 @@ I'm currently a senior attending University and have 9 years of programming Expe
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/universe.gif"></a>.
   - 📧 You can reach me at: ronaldsonbellande@gmai.com
-  - 💼 _I'm actively researching
+  - 💼 _I'm actively researching and learning new technology
 <p>&nbsp;</p>
 
 
@@ -13,7 +13,7 @@ I'm currently a senior attending University and have 9 years of programming Expe
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
-<img src="github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/C.svg" alt="c" width="50" height="50"/> 
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/C.svg" alt="c" width="50" height="50"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/Python.png" alt="python" width="57" height="55"/> 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/tree/main/label/JAVA.png" alt="JAVA" width="57" height="55"/> 
