@@ -41,7 +41,7 @@ I'm currently a senior attending University and have 6 years of programming expe
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldsonBellande&layout=compact&theme=gruvbox" /></a>
 
 
-<a href="https://github.com/RonaldsonBellande/"><img align="right" width="800" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/universe.gif"></a>.
+<a href="https://github.com/RonaldsonBellande/"><img align="left" width="1200" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/universe.gif"></a>.
 
 
 <!--
