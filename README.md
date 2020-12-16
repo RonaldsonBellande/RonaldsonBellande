@@ -5,8 +5,8 @@ I'm currently a senior attending University and have 6 years of programming expe
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>.
   - 📧 You can reach me at: ronaldsonbellande@gmail.com
-  - 💼 _I'm actively researching and learning new technology
-  - ⚡ Fun fact I love to play chess and learn about the universe
+  - 💼 _I'm actively researching and learning new technologies
+  - 🔭 Fun fact I love to play chess and learn about the universe
 <p>&nbsp;</p>
 
 
