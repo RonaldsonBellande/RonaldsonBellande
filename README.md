@@ -1,10 +1,10 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
 ## 📚 About Me &  My Interest:
-I'm currently a senior attending University and have 6 years of programming experience and 9 years of engineering experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, Physics and Math. I want to focus doing research on those topic since I will be needing them later on my career.
+I'm currently a senior attending University and have 6 years of programming experience and 9 years of engineering experience. I'm a student focusing in in Robotics, Robotic Learning, Humaioid Robots  , Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Alternatee Energy Source, Battery, Engine Engineering, Space Technology, User Interface/User Experience, Game Design, Simulation Development with real world physics, Physics and Math. I want to focus doing research on those topic since I will be needing them later in on my career.
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>.
-  - 📧 You can reach me at: ronaldsonbellande@gmai.com
+  - 📧 You can reach me at: ronaldsonbellande@gmail.com
   - 💼 _I'm actively researching and learning new technology
   - ⚡ Fun fact I love to play chess and learn about the universe
 <p>&nbsp;</p>
@@ -41,6 +41,7 @@ I'm currently a senior attending University and have 6 years of programming expe
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldsonBellande&layout=compact&theme=gruvbox" /></a>
 
 
+<a href="https://github.com/RonaldsonBellande/"><img align="right" width="800" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/universe.gif"></a>.
 
 
 <!--
