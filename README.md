@@ -1,13 +1,13 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
 ## 📚 About Me &  My Interest:
-I'm currently a senior attending University, have 6 years of programming experience and 9 years of engineering experience. Focusing in Robotics, Robotic Learning, Humanoid Robots, Web Development, Computer Vision, Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Data Analysis, Data Mining, Health Data Analysis, Alternatee Energy Source, Battery, Engine Engineering, 3D Printing, Space Technologies, User Interface/User Experience, Game Design, Simulation Development with real world physics, Physics, Math, Chemistry. I want to focus doing research on those topic since I will be needing them later on in my career.
+I'm currently a senior attending University, have 6 years of programming experience and 9 years of engineering experience. Focusing in Robotics, Robotic Learning, Humanoid Robots, Web Development, Artificial Intelligence, Sensors, Computer Vision, Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Data Analysis, Data Mining, Health Data Analysis, Alternatee Energy Source, Battery, Engine Engineering, 3D Printing, Space Technologies, User Interface/User Experience, Game Design, Simulated Artificial Intelligence, Simulation of Artificial World, Physics, Mathematics, Chemistry. I want to focus doing research on those topic since I will be needing them later on in my career.
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>.
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite/
   - 📧  You can reach me at: ronaldsonbellande@gmail.com
   - 💼  I'm actively researching and learning new technologies
-  - 🔭  Fun fact I love to play chess and learn about the universe
+  - 🔭  Fun fact I love to play chess, learn about the Universe and Evolution
 <p>&nbsp;</p>
 
 
