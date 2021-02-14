@@ -41,7 +41,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 <a href="https://github.com/RonaldsonBellande/">
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldsonBellande&layout=compact&theme=gruvbox" /></a>
 
-## 📫 Research & Projects
+## 📫 Research & Projects:
 <table><tr><td valign="top" width="25%">
   
 ### AI, ML, RL, DL, NN, DNN & Research
