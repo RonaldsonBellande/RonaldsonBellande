@@ -41,10 +41,14 @@ I'm currently a senior attending University, have 6 years of programming experie
 <a href="https://github.com/RonaldsonBellande/">
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldsonBellande&layout=compact&theme=gruvbox" /></a>
 
+
+
+
 ## 📫 Research & Projects:
+<!-- Table Starts Here --!>
 <table><tr><td valign="top" width="25%">
   
-## AI, ML, RL, DL, NN, DNN
+## <sub> AI, ML, RL, DL, NN, DNN</sub>
 <!-- starts -->
 [Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/tree/master/Disease%20Analysis/Brain_Tumor)
 
@@ -64,13 +68,13 @@ I'm currently a senior attending University, have 6 years of programming experie
 
 </td><td valign="top" width="25%">
 
-## Electronic, Mechanical Design
+## Electronic, Mechanical Robotic Design
 <!-- starts -->
 
 <!-- ends -->
 
 </td></tr></table>
-
+<!-- Table Ends Here --!>
 
 
 <a href="https://github.com/RonaldsonBellande/"><img align="left" width="1200" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/universe.gif"></a>.
