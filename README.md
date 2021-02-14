@@ -44,27 +44,27 @@ I'm currently a senior attending University, have 6 years of programming experie
 ## 📫 Research & Projects:
 <table><tr><td valign="top" width="25%">
   
-### AI, ML, RL, DL, NN, DNN & Research
+## AI, ML, RL, DL, NN, DNN
 <!-- starts -->
 [Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/tree/master/Disease%20Analysis/Brain_Tumor)
 
 </td><td valign="top" width="25%">
   
 <!-- ends -->
-### Robotics, Robotic Learning, Humanoid Robots, Robotic Suits Projects and Research
+## Robotics, Robotic Learning, Humanoid Robots, Robotic Suits
 <!-- starts -->
 
 <!-- ends -->
 </td><td valign="top" width="25%">
 
-#### Simulation
+## Simulation, Simulated World, Environmental Design, Game Development
 <!-- starts -->
 
 <!-- ends -->
 
 </td><td valign="top" width="25%">
 
-## TIL
+## Electronic, Mechanical Design
 <!-- starts -->
 
 <!-- ends -->
