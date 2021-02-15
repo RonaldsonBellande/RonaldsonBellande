@@ -34,14 +34,6 @@ I'm currently a senior attending University, have 6 years of programming experie
 <img src="https://preview.redd.it/z3xmza38ev921.png?width=512&format=png&auto=webp&s=39d0ca955e2a4cc678b415453e7f63b06c2ea6a7" alt="lightroom" width="48" height="48"/> 
 </div>
 
-## 📈 My Stats:     <a href="https://github.com/RonaldsonBellande"> <img src="https://komarev.com/ghpvc/?username=RonaldsonBellande&label=Profile+Views&color=2e8b57&style=flat" /></a>
-<p align="center">
-<a href="https://github.com/RonaldsonBellande">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonaldsonBellande&count_private=true&show_icons=true&theme=gruvbox" /></a>
-<a href="https://github.com/RonaldsonBellande/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldsonBellande&layout=compact&theme=gruvbox" /></a>
-
-
 ## 📫 Research & Projects:
 <!-- Table Starts Here --!>
 
@@ -74,6 +66,14 @@ I'm currently a senior attending University, have 6 years of programming experie
 <!-- ends -->
 </td></tr></table>
 <!-- Table Ends Here --!>
+
+## 📈 My Stats:     <a href="https://github.com/RonaldsonBellande"> <img src="https://komarev.com/ghpvc/?username=RonaldsonBellande&label=Profile+Views&color=2e8b57&style=flat" /></a>
+<p align="center">
+<a href="https://github.com/RonaldsonBellande">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldsonBellande&count_private=true&show_icons=true&theme=gruvbox" /></a>
+<a href="https://github.com/RonaldsonBellande/">
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldsonBellande&layout=compact&theme=gruvbox" /></a>
+
 
 
 <a href="https://github.com/RonaldsonBellande/"><img align="left" width="1200" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/universe.gif"></a>.
