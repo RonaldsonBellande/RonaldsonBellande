@@ -55,7 +55,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 <!-- ends -->
 </td><td valign="top" width="25%">
   
-## Robotics, Robotic Learning / Suits / Humanoid 
+###### Robotics, Robotic Learning / Suits / Humanoid 
 <!-- starts -->
 
 <!-- ends -->
