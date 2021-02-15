@@ -49,13 +49,13 @@ I'm currently a senior attending University, have 6 years of programming experie
   
 ### AI, ML, RL, DL, NN, DNN
 <!-- starts -->
-[Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/tree/master/Disease%20Analysis/Brain_Tumor)
 
 </td><td valign="top" width="25%">
   
 <!-- ends -->
 ## Robotics, Robotic Learning / Suits / Humanoid 
 <!-- starts -->
+[Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/tree/master/Disease%20Analysis/Brain_Tumor)
 
 <!-- ends -->
 </td><td valign="top" width="25%">
