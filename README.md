@@ -42,36 +42,37 @@ I'm currently a senior attending University, have 6 years of programming experie
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldsonBellande&layout=compact&theme=gruvbox" /></a>
 
 
-## 📫 Research & Projects
+## 📫 Research & Projects:
 <!-- Table Starts Here --!>
 
 <table><tr><td valign="top" width="25%">
-  
-### AI, ML, RL, DL, NN, DNN
-<!-- starts -->
-
-</td><td valign="top" width="25%">
-  
-<!-- ends -->
-## Robotics, Robotic Learning / Suits / Humanoid 
+ 
+## AI, ML, RL, DL, NN, DNN
 <!-- starts -->
 [Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/tree/master/Disease%20Analysis/Brain_Tumor)
 
 <!-- ends -->
 </td><td valign="top" width="25%">
   
-## Simulation / World, Environmental Design, Game Development
+## Robotics, Robotic Learning / Suits / Humanoid 
 <!-- starts -->
 
 <!-- ends -->
 
 </td><td valign="top" width="25%">
   
-## Electronic, Mechanical Robotic Design
+## Simulation / World, Environmental Design, Game Development
+<!-- starts -->
+
+<!-- ends -->
+</td><td valign="top" width="25%">
+  
+## Interesting Projects
 <!-- starts -->
 
 <!-- ends -->
 
+</td><td valign="top" width="25%">
 </td></tr></table>
 <!-- Table Ends Here --!>
 
