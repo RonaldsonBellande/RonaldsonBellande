@@ -38,6 +38,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 <!-- Table Starts Here -->
 
 <table><tr><td valign="top" width="25%">
+  
 ## AI, ML, RL, DL, NN, DNN
 <!-- starts -->
 [Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/tree/master/Disease%20Analysis/Brain_Tumor)
@@ -63,7 +64,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 
 <!-- ends -->
 </td></tr></table>
-<!-- Table Ends Here --!>
+<!-- Table Ends Here -->
 
 ## 📈 My Stats:     <a href="https://github.com/RonaldsonBellande"> <img src="https://komarev.com/ghpvc/?username=RonaldsonBellande&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
