@@ -53,7 +53,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 
 </td><td valign="top" width="25%">
   
-## Simulation / Simulated World, Environmental Design / Game Development
+## Simulation / Simulated World / Environmental Design / Game Development
 <!-- starts -->
 
 <!-- ends -->
