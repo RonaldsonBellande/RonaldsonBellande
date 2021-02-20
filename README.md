@@ -39,7 +39,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 
 <table><tr><td valign="top" width="25%">
   
-## AI, ML, RL, DL, NN, DNN
+## AI / ML / RL / DL / NN / DNN
 <!-- starts -->
 [Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/tree/master/Disease%20Analysis/Brain_Tumor)
 
@@ -53,13 +53,13 @@ I'm currently a senior attending University, have 6 years of programming experie
 
 </td><td valign="top" width="25%">
   
-## Simulation / Simulated World, Environmental Design, Game Development
+## Simulation / Simulated World, Environmental Design / Game Development
 <!-- starts -->
 
 <!-- ends -->
 </td><td valign="top" width="25%">
   
-## Electrical & Mechanical Design, 3d Printing
+## Electrical & Mechanical Design / 3D Printing
 <!-- starts -->
 
 <!-- ends -->
