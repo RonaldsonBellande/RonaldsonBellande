@@ -46,20 +46,20 @@ I'm currently a senior attending University, have 6 years of programming experie
 <!-- ends -->
 </td><td valign="top" width="25%">
   
-## Robotics, Robotic Learning / Suits / Humanoid 
+## Robotics / Robotic Learning /  Robotic Suits / Humanoid Robotic
 <!-- starts -->
 
 <!-- ends -->
 
 </td><td valign="top" width="25%">
   
-## Simulation / World, Environmental Design, Game Development
+## Simulation / Simulated World, Environmental Design, Game Development
 <!-- starts -->
 
 <!-- ends -->
 </td><td valign="top" width="25%">
   
-## Interesting Projects
+## Electrical & Mechanical Design, 3d Printing
 <!-- starts -->
 
 <!-- ends -->
