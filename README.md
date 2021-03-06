@@ -39,7 +39,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 
 <table><tr><td valign="top" width="20%">
   
-## AI / ML / RL / DL / NN / DRL / DNN
+## AI / ML / RL / DL / NN / DRL / DNN & Data Analysis
 <!-- starts -->
 -[Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Brain_Tumor/Brain_Tumor.ipynb)
 
@@ -56,6 +56,10 @@ I'm currently a senior attending University, have 6 years of programming experie
 -[mimic 3d Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Mimic_data_analysis/mimic3d_dataset_without_neural_network_fairness.ipynb)
 
 -[AI Fairness](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Mimic_data_analysis/neural_network_with_mimic_data.ipynb)
+
+-[DNA Sequence](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/dna_sequence)
+
+-
 
 
 
@@ -81,14 +85,28 @@ I'm currently a senior attending University, have 6 years of programming experie
   
 ## Simulation / Simulated World / Environmental Design / Game Development
 <!-- starts -->
+-[Evil Hangman](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/evil_hangman)
 
+-[Music Instruments](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/music_instruments)
+
+-[Solar System Simulation](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/solar_system)
+
+-
 
 <!-- ends -->
 </td><td valign="top" width="20%">
   
 ## UX/UI Design / Web Development / Operating System
 <!-- starts -->
+-[Personal Website](https://github.com/RonaldsonBellande/officialronaldsonbellandewebsite)
 
+-[Cough Detector](https://github.com/RonaldsonBellande/Application-Projects/tree/master/cough_detector_with_machine_learning)
+
+-[Map Dispay](https://github.com/RonaldsonBellande/Application-Projects/tree/master/map_activity)
+
+-[Pythagoras](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/pythagoras)
+
+-
 
 <!-- ends -->
 </td><td valign="top" width="20%">
