@@ -66,7 +66,15 @@ I'm currently a senior attending University, have 6 years of programming experie
   
 ## Robotics / Robotic Learning /  Robotic Suits / Humanoid Robotic
 <!-- starts -->
+-[Color Detection](https://github.com/RonaldsonBellande/Robotic_Vision/tree/main/color_cube_detector)
 
+-[Color Classification](https://github.com/RonaldsonBellande/Robotic_Vision/blob/main/color_cube_detector_classification/create_model_of_newdata_cubes_2.ipynb)
+
+-[Image detector](https://github.com/RonaldsonBellande/Robotic_Vision/tree/main/image_detection_manipulation)
+
+-[Dinamic Movement Primitives](https://github.com/RonaldsonBellande/Robotic-Movement/tree/master/DMP)
+
+-
 
 <!-- ends -->
 </td><td valign="top" width="20%">
