@@ -41,7 +41,7 @@ I'm currently a senior attending University, have 6 years of programming experie
   
 ## AI / ML / RL / DL / NN / DRL / DNN
 <!-- starts -->
-[Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Brain_Tumor/Brain_Tumor.ipynb)
+1.[Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Brain_Tumor/Brain_Tumor.ipynb)
 [Human activity Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Research_Project/Activity_Analysis_LSTM.ipynb)
 [Breast Cancer Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/breast_cancer_analysis/breast_cancer_analysis.ipynb)
 [Diabetes Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Diabetic_data/Diabetic%20Analysis.ipynb)
