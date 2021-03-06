@@ -41,14 +41,14 @@ I'm currently a senior attending University, have 6 years of programming experie
   
 ## AI / ML / RL / DL / NN / DRL / DNN
 <!-- starts -->
-1.[Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Brain_Tumor/Brain_Tumor.ipynb)
-[Human activity Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Research_Project/Activity_Analysis_LSTM.ipynb)
-[Breast Cancer Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/breast_cancer_analysis/breast_cancer_analysis.ipynb)
-[Diabetes Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Diabetic_data/Diabetic%20Analysis.ipynb)
-[Image Proccesing](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Neural_Network_Image_recognition_proccesing/image_proccesing.ipynb)
-[Neuro Kit Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Neuro_kit_data_analysis/NeuroKit2.ipynb)
-[mimic 3d Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Mimic_data_analysis/mimic3d_dataset_without_neural_network_fairness.ipynb)
-[AI Fairness](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Mimic_data_analysis/neural_network_with_mimic_data.ipynb)
+-[Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Brain_Tumor/Brain_Tumor.ipynb)
+-[Human activity Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Research_Project/Activity_Analysis_LSTM.ipynb)
+-[Breast Cancer Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/breast_cancer_analysis/breast_cancer_analysis.ipynb)
+-[Diabetes Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Diabetic_data/Diabetic%20Analysis.ipynb)
+-[Image Proccesing](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Neural_Network_Image_recognition_proccesing/image_proccesing.ipynb)
+-[Neuro Kit Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Neuro_kit_data_analysis/NeuroKit2.ipynb)
+-[mimic 3d Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Mimic_data_analysis/mimic3d_dataset_without_neural_network_fairness.ipynb)
+-[AI Fairness](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Mimic_data_analysis/neural_network_with_mimic_data.ipynb)
 
 
 
