@@ -120,7 +120,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 <!-- Table Ends Here -->
 [![Reinforcement Learning](https://github.com/RonaldsonBellande/Reinforcement-Learning/api/?username=RonaldsonBellande&repo=Reinforcement-Learning)](https://github.com/RonaldsonBellande/Reinforment-learning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Reinforcement Learning](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare_Data-Analytics/api/pin/?username=RonaldsonBellande&repo=Data-Analysis-Healthcare_Data-Analytics)](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare_Data-Analytics)
 
 
 ## 📈 My Stats:     <a href="https://github.com/RonaldsonBellande"> <img src="https://komarev.com/ghpvc/?username=RonaldsonBellande&label=Profile+Views&color=2e8b57&style=flat" /></a>
