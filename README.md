@@ -11,6 +11,9 @@ I'm currently a senior attending University, have 6 years of programming experie
 <p>&nbsp;</p>
 
 
+## ⚡ Research & Projects Repository:
+
+[![Reinforcement Learning](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Reinforcement-Learning)](https://github.com/RonaldsonBellande/Reinforment-learning)
 
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
@@ -60,8 +63,6 @@ I'm currently a senior attending University, have 6 years of programming experie
 -[DNA Sequence](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/dna_sequence)
 
 -
-
-
 
 
 
@@ -119,9 +120,6 @@ I'm currently a senior attending University, have 6 years of programming experie
 </td></tr></table>
 <!-- Table Ends Here -->
 
-[![Reinforcement Learning](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Reinforcement-Learning&show_owner=true)](https://github.com/RonaldsonBellande/Reinforment-learning)
-
-[![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Data-Analysis-Healthcare_Data-Analytics&show_owner=true)](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare_Data-Analytics)
 
 
 ## 📈 My Stats:     <a href="https://github.com/RonaldsonBellande"> <img src="https://komarev.com/ghpvc/?username=RonaldsonBellande&label=Profile+Views&color=2e8b57&style=flat" /></a>
