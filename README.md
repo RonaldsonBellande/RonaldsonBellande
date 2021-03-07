@@ -118,7 +118,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 <!-- ends -->
 </td></tr></table>
 <!-- Table Ends Here -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=github-readme-stats)](https://github.com/RonaldsonBellande/Reinforment-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Reinforcement-Learning)](https://github.com/RonaldsonBellande/Reinforment-learning)
 
 ## 📈 My Stats:     <a href="https://github.com/RonaldsonBellande"> <img src="https://komarev.com/ghpvc/?username=RonaldsonBellande&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
