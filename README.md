@@ -37,7 +37,7 @@ I'm currently a senior attending University, have 6 years of programming experie
 <img src="https://preview.redd.it/z3xmza38ev921.png?width=512&format=png&auto=webp&s=39d0ca955e2a4cc678b415453e7f63b06c2ea6a7" alt="lightroom" width="48" height="48"/> 
 </div>
 
-## 📫 Research & Projects: (95% of Research & Projects are Private)
+## 📫 Research & Projects: (99% of Research & Projects are Private)
 <!-- Table Starts Here -->
 
 <table><tr><td valign="top" width="20%">
