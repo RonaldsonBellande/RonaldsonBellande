@@ -5,7 +5,8 @@ I'm currently a senior attending University, have 6 years of programming experie
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>.
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite/
-  - 📧  You can reach me at: ronaldsonbellande@gmail.com
+  - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
+  - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
   - 💼  I'm actively researching and learning new technologies
   - 🔭  Fun fact I love to play chess, learn about the Universe and Evolution
 <p>&nbsp;</p>
