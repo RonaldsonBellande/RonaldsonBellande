@@ -43,8 +43,15 @@ I'm currently a graduate student attending University, have 6 years of programmi
 
 <table><tr><td valign="top" width="20%">
   
-## AI / ML / RL / DL / NN / DRL / DNN & Data Analysis
+## AI / ML / RL / DL / NN / DRL / DNN / Data & Image Analysis
 <!-- starts -->
+  
+-[Inverse Reinforcement Learning](https://github.com/RonaldsonBellande/Reinforcement-Learning/tree/main/Inverse%20reinforcement%20learning)
+
+-[Black & Shadow detection](https://github.com/RonaldsonBellande/Robotic-Vision/tree/main/shadow_brightness_reflection_detector/detect_all_dark_and_shadow_colors)
+
+-[Source of Brigness Detection](https://github.com/RonaldsonBellande/Robotic-Vision/tree/main/shadow_brightness_reflection_detector/detects_bright_area_in_an_image)
+ 
 -[Brain Tumor Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Disease%20Analysis/Brain_Tumor/Brain_Tumor.ipynb)
 
 -[Human activity Analysis](https://github.com/RonaldsonBellande/Data-Analysis-Healthcare-Data-Analytics/blob/master/Research_Project/Activity_Analysis_LSTM.ipynb)
@@ -63,15 +70,19 @@ I'm currently a graduate student attending University, have 6 years of programmi
 
 -[DNA Sequence](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/dna_sequence)
 
--
+-[Weather Analysis](https://github.com/RonaldsonBellande/Computer-Vision_Machine-Learning/blob/master/Machine_Learning_Image_Classification/Experimental/ML.ipynb)
 
-
+-[Iris Data Analysis](https://github.com/RonaldsonBellande/Computer-Vision_Machine-Learning/blob/master/Machine_Learning_Image_Classification/Experimental/data_analysis.ipynb)
+  
+ 
 
 <!-- ends -->
 </td><td valign="top" width="20%">
   
 ## Robotics / Robotic Learning /  Robotic Suits / Humanoid Robotic
 <!-- starts -->
+  
+-
 -[Color Detection](https://github.com/RonaldsonBellande/Robotic_Vision/tree/main/color_cube_detector)
 
 -[Color Classification](https://github.com/RonaldsonBellande/Robotic_Vision/blob/main/color_cube_detector_classification/create_model_of_newdata_cubes_2.ipynb)
@@ -80,11 +91,9 @@ I'm currently a graduate student attending University, have 6 years of programmi
 
 -[Dinamic Movement Primitives](https://github.com/RonaldsonBellande/Robotic-Movement/tree/master/DMP)
 
--
-
 <!-- ends -->
 </td><td valign="top" width="20%">
-  
+ 
 ## Simulation / Simulated World / Environmental Design / Game Development
 <!-- starts -->
 -[Evil Hangman](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/evil_hangman)
@@ -98,17 +107,24 @@ I'm currently a graduate student attending University, have 6 years of programmi
 <!-- ends -->
 </td><td valign="top" width="20%">
   
-## UX/UI Design / Web Development / Operating System
+## UX/UI Design / Web Development / Operating System /
 <!-- starts -->
 -[Personal Website](https://github.com/RonaldsonBellande/officialronaldsonbellandewebsite)
 
 -[Cough Detector](https://github.com/RonaldsonBellande/Application-Projects/tree/master/cough_detector_with_machine_learning)
 
+-[Activity Detector]()
+
 -[Map Dispay](https://github.com/RonaldsonBellande/Application-Projects/tree/master/map_activity)
 
 -[Pythagoras](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/pythagoras)
 
--
+-[Map Display](https://github.com/RonaldsonBellande/Application-Projects/tree/master/map_activity)
+ 
+-[Gross Pay Web Calculator](https://github.com/RonaldsonBellande/Application-Projects/tree/master/small_web_development_project)
+
+
+    
 
 <!-- ends -->
 </td><td valign="top" width="20%">
@@ -116,6 +132,7 @@ I'm currently a graduate student attending University, have 6 years of programmi
 ## Electrical & Mechanical Design / 3D Printing
 <!-- starts -->
 
+  
 
 <!-- ends -->
 </td></tr></table>
