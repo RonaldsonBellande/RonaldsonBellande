@@ -73,8 +73,7 @@ I'm currently a graduate student attending University, have 6 years of programmi
 -[Weather Analysis](https://github.com/RonaldsonBellande/Computer-Vision_Machine-Learning/blob/master/Machine_Learning_Image_Classification/Experimental/ML.ipynb)
 
 -[Iris Data Analysis](https://github.com/RonaldsonBellande/Computer-Vision_Machine-Learning/blob/master/Machine_Learning_Image_Classification/Experimental/data_analysis.ipynb)
-  
- 
+
 
 <!-- ends -->
 </td><td valign="top" width="20%">
@@ -107,9 +106,13 @@ I'm currently a graduate student attending University, have 6 years of programmi
 <!-- ends -->
 </td><td valign="top" width="20%">
   
-## UX/UI Design / Web Development / Operating System / Programming Creation
+## UX/UI Design / Web Development / Operating System / Programming Creation / Robotic Data Mining
 <!-- starts -->
 -[Personal Website](https://github.com/RonaldsonBellande/officialronaldsonbellandewebsite)
+
+-[GAT dataset Analysis](https://github.com/RonaldsonBellande/Robotic_Data_Mining/blob/master/cora_dataset_GAT/Caro_data_set_preprosessing.ipynb)
+
+-[LSTM Taxi Dataset](https://github.com/RonaldsonBellande/Robotic_Data_Mining/blob/master/NewYork_Taxi_dataset_LSTM/NewYork_Taxi_dataset.ipynb)
 
 -[Cough Detector](https://github.com/RonaldsonBellande/Application-Projects/tree/master/cough_detector_with_machine_learning)
 
@@ -128,9 +131,6 @@ I'm currently a graduate student attending University, have 6 years of programmi
 -[Map Display](https://github.com/RonaldsonBellande/Application-Projects/tree/master/map_activity)
  
 -[Gross Pay Web Calculator](https://github.com/RonaldsonBellande/Application-Projects/tree/master/small_web_development_project)
-
-
-    
 
 <!-- ends -->
 </td><td valign="top" width="20%">
