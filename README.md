@@ -78,10 +78,14 @@ I'm currently a graduate student attending University, have 6 years of programmi
 <!-- ends -->
 </td><td valign="top" width="20%">
   
+  
+  
+  
+  
+  
 ## Robotics / Robotic Learning /  Robotic Suits / Humanoid Robotic
 <!-- starts -->
   
--
 -[Color Detection](https://github.com/RonaldsonBellande/Robotic_Vision/tree/main/color_cube_detector)
 
 -[Color Classification](https://github.com/RonaldsonBellande/Robotic_Vision/blob/main/color_cube_detector_classification/create_model_of_newdata_cubes_2.ipynb)
@@ -93,18 +97,29 @@ I'm currently a graduate student attending University, have 6 years of programmi
 <!-- ends -->
 </td><td valign="top" width="20%">
  
+  
+  
+  
+  
 ## Simulation / Simulated World / Environmental Design / Game Development
 <!-- starts -->
+  
 -[Evil Hangman](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/evil_hangman)
-
+  
+-[Application Development Features](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects)
+  
 -[Music Instruments](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/music_instruments)
 
 -[Solar System Simulation](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/solar_system)
 
--
 
 <!-- ends -->
 </td><td valign="top" width="20%">
+  
+  
+  
+  
+  
   
 ## UX/UI Design / Web Development / Operating System / Programming Creation / Robotic Data Mining
 <!-- starts -->
@@ -118,18 +133,14 @@ I'm currently a graduate student attending University, have 6 years of programmi
 
 -[Activity Detector]()
   
--[Interpreter](https://github.com/RonaldsonBellande/Personal_Language_Creation/tree/master/interpreter)
-  
--[Interpreter bigstep](https://github.com/RonaldsonBellande/Personal_Language_Creation/tree/master/interpreter_bigstep)
-  
--[Interpreter dynamic](https://github.com/RonaldsonBellande/Personal_Language_Creation/tree/master/interpreter_dynamic)
-
+-[Programming Language Creation](https://github.com/RonaldsonBellande/Personal_Language_Creation)
+    
 -[Map Dispay](https://github.com/RonaldsonBellande/Application-Projects/tree/master/map_activity)
 
 -[Pythagoras](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/pythagoras)
 
--[Map Display](https://github.com/RonaldsonBellande/Application-Projects/tree/master/map_activity)
- 
+-[Image Encoder](https://github.com/RonaldsonBellande/Assembly-Simulation-Operating-System_Projects/tree/master/image_encoder)
+  
 -[Gross Pay Web Calculator](https://github.com/RonaldsonBellande/Application-Projects/tree/master/small_web_development_project)
 
 <!-- ends -->
