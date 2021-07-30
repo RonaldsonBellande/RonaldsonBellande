@@ -14,7 +14,7 @@ I'm currently a graduate student attending University, have 7 years of programmi
 
 ## ⚡ Research & Projects Repository:
 
-[![Reinforcement Learning](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Reinforcement-Learning)](https://github.com/RonaldsonBellande/Reinforment-learning)
+[![Inverse Reinforcement Learning](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Inverse_Reinforcement_Learning_Projects)](https://github.com/RonaldsonBellande/Inverse_Reinforcement_Learning_Projects)
 
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
