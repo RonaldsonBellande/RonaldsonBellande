@@ -12,10 +12,10 @@ I'm currently a graduate student attending University, have 8 years of programmi
 <p>&nbsp;</p>
 
 
-## ⚡ Research & Projects Repository:
+<!-- ## ⚡ Research & Projects Repository:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Inverse_Reinforcement_Learning_Projects)](https://github.com/RonaldsonBellande/Inverse_Reinforcement_Learning_Projects)
-
+ -->
   
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
