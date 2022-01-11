@@ -16,7 +16,7 @@ I'm currently a graduate student attending University, have 8 years of programmi
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Inverse_Reinforcement_Learning_Projects)](https://github.com/RonaldsonBellande/Inverse_Reinforcement_Learning_Projects)
  -->
-  
+ 
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
@@ -39,7 +39,7 @@ I'm currently a graduate student attending University, have 8 years of programmi
 <img src="https://preview.redd.it/z3xmza38ev921.png?width=512&format=png&auto=webp&s=39d0ca955e2a4cc678b415453e7f63b06c2ea6a7" alt="lightroom" width="48" height="48"/> 
 </div>
 
-## 📫 Research & Projects: (99% of Research & Projects are Private)
+## 📫 Research & Projects: (Research are Private and most of my repository are research as well)
 
 <!-- Table Starts Here -->
 <table><tr><td valign="top" width="20%">
