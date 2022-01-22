@@ -39,7 +39,16 @@ I'm currently a graduate student attending University, have 8 years of programmi
 <img src="https://preview.redd.it/z3xmza38ev921.png?width=512&format=png&auto=webp&s=39d0ca955e2a4cc678b415453e7f63b06c2ea6a7" alt="lightroom" width="48" height="48"/> 
 </div>
 
-## 📫 Research & Projects: (Research are Private and most of my repository are research as well)
+## 📫 Repository Names
+
+ROS --> 99% research and projects are private
+ML --> 90% of research and projects are private
+AI --> 90% of research and projects are private
+RL --> 90% of research and projects are private
+
+Anything inportant and research related are not online
+
+## 📫 Research & Projects:
 
 <!-- Table Starts Here -->
 <table><tr><td valign="top" width="20%">
