@@ -49,7 +49,9 @@ AI --> 100% of research and projects are private
 
 RL --> 100% of research and projects are private
 
-Algo -- 100% of research and project are private
+Algo --> 100% of research and project are private
+
+Robot Architecture -- 100% of research and project are private
 
 Everything is private
 ## 📫 Research & Projects:
