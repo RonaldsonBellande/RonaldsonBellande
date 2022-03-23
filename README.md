@@ -41,18 +41,17 @@ I'm currently a graduate student attending University, have 8 years of programmi
 
 ## 📫 Repository Names
 
-ROS --> 99% research and projects are private
+ROS --> 100% research and projects are private
 
-ML --> 90% of research and projects are private
+ML --> 100% of research and projects are private
 
-AI --> 90% of research and projects are private
+AI --> 100% of research and projects are private
 
-RL --> 90% of research and projects are private
+RL --> 100% of research and projects are private
 
 Algo -- 100% of research and project are private
 
-Anything inportant and research related are not online
-
+Everything is private
 ## 📫 Research & Projects:
 
 <!-- Table Starts Here -->
