@@ -53,7 +53,6 @@ New Algorithum --> 100% of research and project are private
 
 Robot Architecture -- 100% of research and project are private
 
-Everything is private
 ## 📫 Research & Projects:
 
 <!-- Table Starts Here -->
