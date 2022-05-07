@@ -39,20 +39,6 @@ I'm currently a graduate student attending University, have 8 years of programmi
 <img src="https://preview.redd.it/z3xmza38ev921.png?width=512&format=png&auto=webp&s=39d0ca955e2a4cc678b415453e7f63b06c2ea6a7" alt="lightroom" width="48" height="48"/> 
 </div>
 
-## 📫 Repository Names
-
-ROS --> 100% research and projects are private
-
-ML --> 100% of research and projects are private
-
-AI --> 100% of research and projects are private
-
-RL --> 100% of research and projects are private
-
-New Algorithum --> 100% of research and project are private
-
-Robot Architecture -- 100% of research and project are private
-
 ## 📫 Research & Projects:
 
 <!-- Table Starts Here -->
