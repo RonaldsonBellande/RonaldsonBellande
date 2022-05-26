@@ -11,18 +11,23 @@ I'm currently a graduate student attending University, have 8 years of programmi
   - 🔭  Fun fact I love to play chess, learn about the Universe and Evolution
 <p>&nbsp;</p>
 
-## ⚡ Research Organization:
+## ⚡ Personal Research Organization:
 
 <table><tr><td valign="top" width="20%">
 <!-- starts -->
   
-[![Robotics-Sensors](https://github-readme-stats.vercel.app/api/pin/?username=Robotics-Sensors&repo=.github )](https://github.com/Robotics-Sensors)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Robotics-Sensors&repo=.github)](https://github.com/Robotics-Sensors)
   
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Application-UI-UX&repo=.github)](https://github.com/Application-UI-UX)
+
   
 <!-- ends -->
 </td><td valign="top" width="20%">
 <!-- starts -->
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Artificial-Intelligence-Computer-Vision&repo=.github)](https://github.com/Artificial-Intelligence-Computer-Vision)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Algorithm-Model-Research&repo=.github)](https://github.com/Algorithm-Model-Research)
   
 <!-- ends -->
 </td></tr></table>
