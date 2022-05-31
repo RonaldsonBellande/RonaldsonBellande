@@ -127,6 +127,8 @@ I'm currently a graduate student attending University, have 8 years of programmi
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_grid_world_agent)](https://github.com/RonaldsonBellande/RL_grid_world_agent)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_super_resolution)](https://github.com/RonaldsonBellande/ML_super_resolution)
+  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_text_detector)](https://github.com/RonaldsonBellande/ML_text_detector)
 
 </td><td valign="top" width="20%">
 <!-- starts -->
