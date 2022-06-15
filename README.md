@@ -46,6 +46,8 @@ I'm currently a graduate student attending University, have 8 years of programmi
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_mimiking)](https://github.com/RonaldsonBellande/ROS_mimiking)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=robots_and_world)](https://github.com/RonaldsonBellande/robots_and_world)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_speech_recognition)](https://github.com/RonaldsonBellande/ROS_speech_recognition)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_computer_vision)](https://github.com/RonaldsonBellande/ROS_computer_vision)
   
