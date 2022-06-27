@@ -11,6 +11,13 @@ I'm currently a graduate student attending University, have 8 years of programmi
   - 🔭  Fun fact I love to play chess, learn about the Universe and Evolution
 <p>&nbsp;</p>
 
+
+## All of my Research and Project is under copyright that are public, anything is assisiated with my research that is public, I already think of and already have done. There is nothing in my research that I have not already think; if you are thinking of something I have already though of it already. Until I have published my research that I have made public, no one has the right to copy it, use it or publish it.
+
+
+## If you are doing research try and comeup with ideas of your own.
+
+
 ## ⚡ Personal Research Organization:
 
 <table><tr><td valign="top" width="20%">
