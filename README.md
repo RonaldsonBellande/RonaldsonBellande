@@ -11,8 +11,6 @@ I'm currently a graduate student attending University, have 8 years of programmi
   - 🔭  Fun fact I love to play chess, learn about the Universe and Evolution
 <p>&nbsp;</p>
 
-## I want to publish my first research paper, that's all
-
 ## ⚡ Personal Research Organization:
 
 <table><tr><td valign="top" width="20%">
