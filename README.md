@@ -5,6 +5,7 @@ I'm currently a graduate student attending University, have 8 years of programmi
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>.
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite/
+   - 📧  Work Email reach me at: mailto:Ronaldson.Bellande@softinway.com
   - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
   - 💼  I'm actively researching and learning new technologies
