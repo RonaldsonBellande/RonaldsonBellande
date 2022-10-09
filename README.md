@@ -4,8 +4,9 @@
 I'm currently a graduate student attending University, have 8 years of programming experience and 11 years of engineering experience. Focusing in Robotics, Robotic Learning, Humanoid Robots, Robotic Suits, Autonomous Robot, Robotic System, Robotic Interface, Robotic Architecture, Robotic-Human Interaction Control, Web Development, Artificial Intelligence, Sensors, Sensor Engineering, Computer Vision, Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Data Analysis, Data Mining, Robotics Data Mining, Health Data Analysis, Data Analysis, Virtual Reality, Robotic Interface Visualization, Alternate Energy Source, Battery, Electric Engine Engineering, 3D Printing, Space Technologies, User Interface/User Experience, Game Design, Simulation, Simulated Artificial Intelligence, Simulation of Artificial World, Physics, Mathematics, Chemistry. There is a lot of topic I want to focus on but they are half a decade far-off and will want to focus on those topics during a later time. I want to focus doing research on those topic since I will be needing them later on in my career.
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>.
+  - ⚡  Docker: https://hub.docker.com/u/ronaldsonbellande
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite/
-   - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
+  - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
   - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
   - 💼  I'm actively researching and learning new technologies
