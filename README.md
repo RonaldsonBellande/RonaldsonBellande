@@ -29,8 +29,7 @@ I'm currently a graduate student attending University, have 8 years of programmi
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Artificial-Intelligence-Computer-Vision&repo=.github)](https://github.com/Artificial-Intelligence-Computer-Vision)
 
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Algorithm-Model-Research&repo=.github)](https://github.com/Algorithm-Model-Research)
-   -->
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Algorithm-Model-Research&repo=.github)](https://github.com/Algorithm-Model-Research)
   
 <!-- ends -->
 </td></tr></table>
