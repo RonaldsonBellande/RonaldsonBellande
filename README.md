@@ -170,7 +170,7 @@ I'm currently a graduate student attending University, have 8 years of programmi
   
 ###### *Electrical & Mechanical Design*
 -----------
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_pointcloud_lidar_object_detection)](https://github.com/RonaldsonBellande/ML_pointcloud_lidar_object_detection)
+ALL PRIVATE
   
 <!-- ends -->
 </td></tr></table>
