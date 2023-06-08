@@ -1,6 +1,6 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
-# 🔭⚡🔭 Privacy and Security: -> Never will be revealed to the public
+# 🔭⚡🔭 Privacy and Security: ***-> Will never be revealed to the public***
   - 99% of Research are Private
   - 100% of Self Created Products are Private
   - 100% of Self Created API are Private
@@ -16,10 +16,10 @@
   - 100% of Self Created Security Systems are Private
   - 100% of Self Created Mathmatecal Algorithms are Private
   - 100% of Self Created Machenical Designs are private
-  - 100% of Self Created Electrical Design are Private
+  - 100% of Self Created Electrical Designs are Private
 
-#  💼 Public Projects & Public Organization & Public Research: -> Will be revealed to the public
-  - Organization that I created is for public use and anyone can contribute to any of them as well as projects
+#  💼 Public Projects & Public Organization & Public Research: ***-> Will be revealed to the public***
+  - Organization that I created is for public use and anyone can contribute to any of them as well as projects but will under the current and previous LICENSES
 
 
 ## 📚 About Me &  My Interest:
