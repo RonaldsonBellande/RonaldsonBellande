@@ -19,8 +19,9 @@
   - 100% of Self Created Electrical Designs are Private
 
 #  💼 Public Projects & Public Organization & Public Research: ***-> Will be revealed to the public***
-  - Organization that I created is for public use and anyone can contribute to any of them as well as projects but will under the current and previous LICENSES
-  - Private Repository that use to be public are under LICENSE
+  - Organization that I created is for public use and anyone can contribute to any of them as well as Projects but are under the current and previous LICENSES
+  - University Projects/Research can be contributed but are under LICENSE
+  - Personal Projects can be contributed but are under LICENSE
 
 ## 📚 About Me &  My Interest:
 I'm currently a graduate student attending University, Focusing in Robotics, Robotic Learning, Humanoid Robots, Robotic Suits, Autonomous Robot, Robotic System, Robotic Interface, Robotic Architecture, Robotic-Human Interaction Control, Web Development, Artificial Intelligence, Sensors, Sensor Engineering, Computer Vision, Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Data Analysis, Data Mining, Robotics Data Mining, Health Data Analysis, Data Analysis, Virtual Reality, Robotic Interface Visualization, Alternate Energy Source, Battery, Electric Engine Engineering, 3D Printing, Space Technologies, User Interface/User Experience, Game Design, Simulation, Simulated Artificial Intelligence, Simulation of Artificial World, Physics, Mathematics, Chemistry. There is a lot of topic I want to focus on but they are half a decade far-off and will want to focus on those topics during a later time. I want to focus doing research on those topic since I will be needing them later on in my career.
