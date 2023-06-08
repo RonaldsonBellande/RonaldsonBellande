@@ -8,6 +8,8 @@
   - 100% of Self Created SDK are Private
   - 100% of Self Created Application are Private
   - 100% of Self Created Systems are Private
+  - 100% of Self Created Packages are Private
+  - 100% of Self Created Library are Private
   - 100% of Self Created Complex Algorithms are Private
   - 100% of Self Created Artificial Intelligence Models are Private
   - 100% of Self Created Artificial Intelligence Architectures are Private
