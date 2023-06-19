@@ -17,7 +17,7 @@
   - 100% of Self Created Turbomachinery are Private
   - 100% of Self Created Security Systems are Private
   - 100% of Self Created Mathmatecal Algorithms are Private
-  - 100% of Self Created Machenical Designs are private
+  - 100% of Self Created Mechanical Designs are private
   - 100% of Self Created Electrical Designs are Private
 
 #  💼 Public Projects & Public Organization & Public Research: ***-> Will be revealed to the public***
