@@ -16,7 +16,7 @@
   - 100% of Self Created Robots Architectures are Private
   - 100% of Self Created Turbomachinery are Private
   - 100% of Self Created Security Systems are Private
-  - 100% of Self Created Mathmatecal Algorithms are Private
+  - 100% of Self Created Mathematical Algorithms are Private
   - 100% of Self Created Mechanical Designs are private
   - 100% of Self Created Electrical Designs are Private
 
