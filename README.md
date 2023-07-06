@@ -17,7 +17,7 @@
   - 100% of Self Created Turbomachinery are Private
   - 100% of Self Created Security Systems are Private
   - 100% of Self Created Mathematical Algorithms are Private
-  - 100% of Self Created Mechanical Designs are private
+  - 100% of Self Created Mechanical Designs are Private
   - 100% of Self Created Electrical Designs are Private
 
 #  💼 Public Projects & Public Organization & Public Research: ***-> Will be revealed to the public***
@@ -66,22 +66,10 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <table><tr><td valign="top" width="20%">
 <!-- starts -->
   
-###### *Robotics (ROS) / Robotic Learning / Humanoid Robotic / Legged Robots / Robot Mimicking*
------------
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_manipulation)](https://github.com/RonaldsonBellande/ROS_manipulation)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_mimiking)](https://github.com/RonaldsonBellande/ROS_mimiking)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=robots_and_world)](https://github.com/RonaldsonBellande/robots_and_world)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_speech_recognition)](https://github.com/RonaldsonBellande/ROS_speech_recognition)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_computer_vision)](https://github.com/RonaldsonBellande/ROS_computer_vision)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_robot_navigation)](https://github.com/RonaldsonBellande/ROS_robot_navigation)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_finite_state_machine)](https://github.com/RonaldsonBellande/ROS_finite_state_machine)
-  
+###### **Robotics (ROS) / Robotic Learning / Humanoid Robotic / Legged Robots / Robot Mimicking** 
+###### **100% of Research and Creation are Private**
+-----------    
+        
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROBOTIS-OP3-Tools)](https://github.com/RonaldsonBellande/ROBOTIS-OP3-Tools)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROBOTIS-OP3-msgs)](https://github.com/RonaldsonBellande/ROBOTIS-OP3-msgs)
@@ -101,54 +89,15 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROBOTIS-OP3)](https://github.com/RonaldsonBellande/ROBOTIS-OP3)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=humanoid_msgs)](https://github.com/RonaldsonBellande/humanoid_msgs)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS_activity_recognition)](https://github.com/RonaldsonBellande/ROS_activity_recognition)
-  
+    
 <!-- ends -->
 </td><td valign="top" width="20%">
 <!-- starts --> 
   
 ###### **AI / ML / RL / DRL / Data Analysis / Computer Vision / Speech Detection / NLP**
+###### **100% of Research and Creation are Private**
 -----------
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Human_Activity_Recognition)](https://github.com/RonaldsonBellande/Human_Activity_Recognition)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Existing_Function_VS_New_Function)](https://github.com/RonaldsonBellande/Existing_Function_VS_New_Function)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_Trajectory_Data_Creation_Learning)](https://github.com/RonaldsonBellande/ML_Trajectory_Data_Creation_Learning)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_utensils_and_tools_detection)](https://github.com/RonaldsonBellande/ML_utensils_and_tools_detection)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_Traffic_sign_classification)](https://github.com/RonaldsonBellande/ML_Traffic_sign_classification)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_pointcloud_lidar_object_detection)](https://github.com/RonaldsonBellande/ML_pointcloud_lidar_object_detection)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_underwater_object_detection)](https://github.com/RonaldsonBellande/ML_underwater_object_detection)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_brain_tumor_analysis_detection)](https://github.com/RonaldsonBellande/ML_brain_tumor_analysis_detection)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_robot_speech_detection)](https://github.com/RonaldsonBellande/ML_robot_speech_detection)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_natural_language_processing_and_speech_recognition)](https://github.com/RonaldsonBellande/ML_natural_language_processing_and_speech_recognition)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_vehicle_visualization)](https://github.com/RonaldsonBellande/ML_vehicle_visualization)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_fruits_object_detection)](https://github.com/RonaldsonBellande/ML_fruits_object_detection)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=AI_Prioritization)](https://github.com/RonaldsonBellande/AI_Prioritization)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_ALGO_control_system)](https://github.com/RonaldsonBellande/ML_ALGO_control_system)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_underwater_object_detection)](https://github.com/RonaldsonBellande/ML_underwater_object_detection)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_Speech_detection)](https://github.com/RonaldsonBellande/ML_Speech_detection)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_inverse_reinforcement_learning)](https://github.com/RonaldsonBellande/RL_inverse_reinforcement_learning)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_Inverted_Pendulum)](https://github.com/RonaldsonBellande/RL_Inverted_Pendulum)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_robotic_movement)](https://github.com/RonaldsonBellande/ML_robotic_movement)
-  
+                              
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_3D_mountain_car)](https://github.com/RonaldsonBellande/RL_3D_mountain_car)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=2D_mountain_car)](https://github.com/RonaldsonBellande/2D_mountain_car)
@@ -157,12 +106,11 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_super_resolution)](https://github.com/RonaldsonBellande/ML_super_resolution)
   
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_text_detector)](https://github.com/RonaldsonBellande/ML_text_detector)
-
 </td><td valign="top" width="20%">
 <!-- starts -->
 
 ###### *UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining*
+###### **100% of Research and Creation are Private**
 -----------
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=android_browser)](https://github.com/RonaldsonBellande/android_browser)
@@ -186,14 +134,14 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=rosjava_mvn_repo)](https://github.com/RonaldsonBellande/rosjava_mvn_repo)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=crazyflie-simulation)](https://github.com/RonaldsonBellande/crazyflie-simulation)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=uta_interface)](https://github.com/RonaldsonBellande/uta_interface)
-  
+    
 <!-- ends -->
 </td><td valign="top" width="20%">
 <!-- starts -->
   
-###### *Electrical & Mechanical Design*
+###### **Electrical & Mechanical Design**
+###### **100% of Research and Creation are Private**
+
 -----------
 ALL PRIVATE
   
