@@ -67,7 +67,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <!-- starts -->
   
 ###### **Robotics (ROS) / Robotic Learning / Humanoid Robotic / Legged Robots / Robot Mimicking** 
-###### **100% of Research and Creation are Private**
+###### **99% of Research and Creation are Private**
 -----------    
         
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROBOTIS-OP3-Tools)](https://github.com/RonaldsonBellande/ROBOTIS-OP3-Tools)
@@ -95,7 +95,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <!-- starts --> 
   
 ###### **AI / ML / RL / DRL / Data Analysis / Computer Vision / Speech Detection / NLP**
-###### **100% of Research and Creation are Private**
+###### **99% of Research and Creation are Private**
 -----------
                               
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_3D_mountain_car)](https://github.com/RonaldsonBellande/RL_3D_mountain_car)
@@ -110,7 +110,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <!-- starts -->
 
 ###### *UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining*
-###### **100% of Research and Creation are Private**
+###### **99% of Research and Creation are Private**
 -----------
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=android_browser)](https://github.com/RonaldsonBellande/android_browser)
