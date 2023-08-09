@@ -97,10 +97,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ###### **AI / ML / RL / DRL / Data Analysis / Computer Vision / Speech Detection / NLP**
 ###### **99% of Research and Creation are Private**
 -----------
-                              
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_3D_mountain_car)](https://github.com/RonaldsonBellande/RL_3D_mountain_car)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=2D_mountain_car)](https://github.com/RonaldsonBellande/2D_mountain_car)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_grid_world_agent)](https://github.com/RonaldsonBellande/RL_grid_world_agent)
   
@@ -112,10 +108,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ###### *UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining*
 ###### **99% of Research and Creation are Private**
 -----------
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=android_browser)](https://github.com/RonaldsonBellande/android_browser)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROS-Mobile-Android)](https://github.com/RonaldsonBellande/ROS-Mobile-Android)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=rosjava_core)](https://github.com/RonaldsonBellande/rosjava_core)
 
