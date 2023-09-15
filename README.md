@@ -66,10 +66,18 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <table><tr><td valign="top" width="20%">
 <!-- starts -->
   
-###### **Robotics (ROS) / Robotic Learning / Humanoid Robotic / Legged Robots / Robot Mimicking** 
+###### **Robotics (ROS) / Robotic Learning / Humanoid Robotic / Legged Robots / Robot Mimicking / Operating System** 
 ###### **99% of Research and Creation are Private**
------------    
-        
+-----------   
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=file-reroute)](https://github.com/RonaldsonBellande/file-reroute)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=SPH_Tools)](https://github.com/RonaldsonBellande/SPH_Tools)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=R_finite_state_machine)](https://github.com/RonaldsonBellande/R_finite_state_machine)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RobotLearningFinalProject)](https://github.com/RonaldsonBellande/RobotLearningFinalProject)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROBOTIS-OP3-Tools)](https://github.com/RonaldsonBellande/ROBOTIS-OP3-Tools)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ROBOTIS-OP3-msgs)](https://github.com/RonaldsonBellande/ROBOTIS-OP3-msgs)
@@ -94,13 +102,43 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 </td><td valign="top" width="20%">
 <!-- starts --> 
   
-###### **AI / ML / RL / DRL / Data Analysis / Computer Vision / Speech Detection / NLP**
+###### **AI / ML / RL / DRL / Data Analysis / Computer Vision / Speech Detection / NLP / Security**
 ###### **99% of Research and Creation are Private**
 -----------
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Breast_Cancer_Analysis)](https://github.com/RonaldsonBellande/Breast_Cancer_Analysis)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_Windy_World)](https://github.com/RonaldsonBellande/RL_Windy_World)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_Blackjack)](https://github.com/RonaldsonBellande/RL_Blackjack)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_k_arm_bandit)](https://github.com/RonaldsonBellande/RL_k_arm_bandit)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_Cube_Color_Classification)](https://github.com/RonaldsonBellande/ML_Cube_Color_Classification)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=CV_cube_color_detection)](https://github.com/RonaldsonBellande/CV_cube_color_detection)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=AR_markers)](https://github.com/RonaldsonBellande/AR_markers)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_image_generator)](https://github.com/RonaldsonBellande/ML_image_generator)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Light_Detector_Analysis)](https://github.com/RonaldsonBellande/Light_Detector_Analysis)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Shadow_Detection_Analysis)](https://github.com/RonaldsonBellande/Shadow_Detection_Analysis)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_Cube_Color_Classification)](https://github.com/RonaldsonBellande/ML_Cube_Color_Classification)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=AI_Prioritization)](https://github.com/RonaldsonBellande/AI_Prioritization)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Infosec-and-Hacking-Scripts)](https://github.com/RonaldsonBellande/Infosec-and-Hacking-Scripts)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Malware-Exhibit)](https://github.com/RonaldsonBellande/Malware-Exhibit)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=RL_grid_world_agent)](https://github.com/RonaldsonBellande/RL_grid_world_agent)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_super_resolution)](https://github.com/RonaldsonBellande/ML_super_resolution)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=Edge_Detector)](https://github.com/RonaldsonBellande/Edge_Detector)
   
 </td><td valign="top" width="20%">
 <!-- starts -->
@@ -108,14 +146,17 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ###### *UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining*
 ###### **99% of Research and Creation are Private**
 -----------
+[![](https://github-readme-stats.vercel.app/api/pin/?username=application-ui-ux&repo=mobile_catkin_modules_build_development_tools)](https://github.com/application-ui-ux/mobile_catkin_modules_build_development_tools)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=application-ui-ux&repo=mobile_message_service_generator)](https://github.com/application-ui-ux/mobile_message_service_generator)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=rosjava_bootstrap)](https://github.com/RonaldsonBellande/rosjava_bootstrap)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=rosjava_messages)](https://github.com/RonaldsonBellande/rosjava_messages)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=rosjava_core)](https://github.com/RonaldsonBellande/rosjava_core)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=android_core)](https://github.com/RonaldsonBellande/android_core)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=rosjava_bootstrap)](https://github.com/RonaldsonBellande/rosjava_bootstrap)
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=rosjava_messages)](https://github.com/RonaldsonBellande/rosjava_messages)
   
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=android_apps)](https://github.com/RonaldsonBellande/android_apps)
   
