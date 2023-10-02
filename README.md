@@ -31,7 +31,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>
 
   - ⚡  Docker: https://hub.docker.com/u/ronaldsonbellande
-  - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite/
+  - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite
   - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
   - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
@@ -46,7 +46,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Organization Website**
 ---------------------------------
-- https://robotics-sensors.github.io/
+- https://robotics-sensors.github.io
 
 ##### **Organization Repository**
 
@@ -57,7 +57,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Organization Website**
 ---------------------------------
-- https://application-ui-ux.github.io/
+- https://application-ui-ux.github.io
 
 ##### **Organization Repository**
 
@@ -70,7 +70,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   
 ##### **Organization Website**
 ---------------------------------
-- https://artificial-intelligence-computer-vision.github.io/
+- https://artificial-intelligence-computer-vision.github.io
 
 ##### **Organization Repository**
 
@@ -81,7 +81,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Organization Website**
 ---------------------------------
-- https://algorithm-model-research.github.io/
+- https://algorithm-model-research.github.io
 
 ##### **Organization Repository**
 
