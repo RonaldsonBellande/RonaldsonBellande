@@ -1,30 +1,5 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
-# 🔭⚡🔭 Privacy and Security: ***-> Will never be revealed to the public***
-  - 99% of Research are Private
-  - 100% of Self Created Products are Private
-  - 100% of Self Created API are Private
-  - 100% of Self Created Architectures are Private
-  - 100% of Self Created SDK are Private
-  - 100% of Self Created Application are Private
-  - 100% of Self Created Systems are Private
-  - 100% of Self Created Packages are Private
-  - 100% of Self Created Library are Private
-  - 100% of Self Created Complex Algorithms are Private
-  - 100% of Self Created Artificial Intelligence Models are Private
-  - 100% of Self Created Artificial Intelligence Architectures are Private
-  - 100% of Self Created Robots Architectures are Private
-  - 100% of Self Created Turbomachinery are Private
-  - 100% of Self Created Security Systems are Private
-  - 100% of Self Created Mathematical Algorithms are Private
-  - 100% of Self Created Mechanical Designs are Private
-  - 100% of Self Created Electrical Designs are Private
-
-#  💼 Public Projects & Public Organization & Public Research: ***-> Will be revealed to the public***
-  - Organization that I created is for public use and anyone can contribute to any of them as well as Projects but are under the current and previous LICENSES
-  - University Projects/Research can be contributed but are under LICENSE
-  - Personal Projects can be contributed but are under LICENSE
-
 ## 📚 About Me &  My Interest:
 I'm currently a graduate student attending University, Focusing in Robotics, Robotic Learning, Humanoid Robots, Robotic Suits, Autonomous Robot, Robotic System, Robotic Interface, Robotic Architecture, Robotic-Human Interaction Control, Web Development, Artificial Intelligence, Sensors, Sensor Engineering, Computer Vision, Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Data Analysis, Data Mining, Robotics Data Mining, Health Data Analysis, Data Analysis, Virtual Reality, Robotic Interface Visualization, Alternate Energy Source, Battery, Electric Engine Engineering, 3D Printing, Space Technologies, User Interface/User Experience, Game Design, Simulation, Simulated Artificial Intelligence, Simulation of Artificial World, Physics, Mathematics, Chemistry. There is a lot of topic I want to focus on but they are half a decade far-off and will want to focus on those topics during a later time. I want to focus doing research on those topic since I will be needing them later on in my career.
 
@@ -97,7 +72,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <!-- starts -->
   
 ###### **Robotics (ROS) / Robotic Learning / Humanoid Robotic / Legged Robots / Robot Mimicking / Operating System** 
-###### **99% of Research and Creation are Private**
 -----------   
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=file-reroute)](https://github.com/RonaldsonBellande/file-reroute)
@@ -133,7 +107,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <!-- starts --> 
   
 ###### **AI / ML / RL / DRL / Data Analysis / Computer Vision / Speech Detection / NLP / Security**
-###### **99% of Research and Creation are Private**
 -----------
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=RonaldsonBellande&repo=ML_object_classification)](https://github.com/RonaldsonBellande/ML_object_classification)
@@ -176,7 +149,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <!-- starts -->
 
 ###### *UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining*
-###### **99% of Research and Creation are Private**
 -----------
 [![](https://github-readme-stats.vercel.app/api/pin/?username=application-ui-ux&repo=mobile_catkin_modules_build_development_tools)](https://github.com/application-ui-ux/mobile_catkin_modules_build_development_tools)
 
@@ -205,7 +177,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <!-- starts -->
   
 ###### **Electrical & Mechanical Design**
-###### **100% of Research and Creation are Private**
 
 -----------
 ALL PRIVATE
@@ -245,7 +216,6 @@ ALL PRIVATE
   <img src="https://github-readme-stats.vercel.app/api?username=RonaldsonBellande&count_private=true&show_icons=true&theme=gruvbox" /></a>
 <a href="https://github.com/RonaldsonBellande/">
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldsonBellande&layout=compact&theme=gruvbox" /></a>
-
 
 
 <a href="https://github.com/RonaldsonBellande/"><img align="left" width="1200" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/universe.gif"></a>.
