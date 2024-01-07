@@ -49,7 +49,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Organization Repository**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Artificial-Intelligenc-Computer-Vision&repo=.github)](https://github.com/Artificial-Intelligence-Computer-Vision)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Artificial-Intelligence-Computer-Vision&repo=.github)](https://github.com/Artificial-Intelligence-Computer-Vision)
 
 ---------------------------------
 ---------------------------------
