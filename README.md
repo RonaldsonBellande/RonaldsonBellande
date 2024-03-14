@@ -7,6 +7,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
   - ⚡  Docker: https://hub.docker.com/u/ronaldsonbellande
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite
+  - 💼  ROS Discussion Forms: https://discourse.ros.org/u/RonaldsonBellande/summary
   - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
   - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
