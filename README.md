@@ -5,9 +5,10 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>
 
-  - ⚡  Docker: https://hub.docker.com/u/ronaldsonbellande
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite
+  - 🌱  HuggingFace(AI/ML Related): https://huggingface.co/RonaldsonBellande 
   - 💼  ROS Discussion Forms: https://discourse.ros.org/u/RonaldsonBellande/summary
+  - ⚡  Docker: https://hub.docker.com/u/ronaldsonbellande
   - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
   - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
