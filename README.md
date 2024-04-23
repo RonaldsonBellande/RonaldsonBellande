@@ -5,13 +5,18 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>
 
+# 👯 Emails Contacts:
+
+  - 📧  Research Organization Email reach me at: ronaldsonbellande@bellande-robotics-sensors-research-innovation-center.org
+  - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
+  - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
+  - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
+
+# 💬 Information
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite
   - 🌱  HuggingFace(AI/ML Related): https://huggingface.co/RonaldsonBellande 
   - 💼  ROS Discussion Forms: https://discourse.ros.org/u/RonaldsonBellande/summary
   - ⚡  Docker: https://hub.docker.com/u/ronaldsonbellande
-  - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
-  - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
-  - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
   - 💼  I'm actively researching and learning new technologies
   - 🔭  Fun fact I love to play chess, learn about the Universe and Evolution
 <p>&nbsp;</p>
