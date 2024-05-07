@@ -28,7 +28,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   - 🔭  Fun fact I love to play chess, learn about the Universe and Evolution
 <p>&nbsp;</p>
 
-## ⚡ Personal Research Organization:
+## ⚡ Bellane's Research Innovation Centers & Research Innovation Labs & Company:
 
 <table><tr><td valign="top" width="20%">
 <!-- starts -->
