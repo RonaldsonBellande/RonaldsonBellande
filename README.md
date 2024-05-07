@@ -32,6 +32,13 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 <table><tr><td valign="top" width="20%">
 <!-- starts -->
+  
+##### **Organization Website**
+---------------------------------
+<img src="https://media.licdn.com/dms/image/D4E0BAQH6IpMUQwWBSw/company-logo_200_200/0/1700626427012/bellande_technologies_corporation_logo?e=2147483647&v=beta&t=2Lep6l-XoXvgUgWAl5wqx-neHMAp5Fh-BvezXPjgc0U" alt="Bellande Technologies Corporation Logo" width="600"/>
+
+---------------------------------
+---------------------------------
 
 ##### **Organization Website**
 ---------------------------------
@@ -61,6 +68,13 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 </td><td valign="top" width="20%">
 <!-- starts -->
   
+##### **Organization Website**
+---------------------------------
+<img src="https://media.licdn.com/dms/image/D4E0BAQHuX8cr2saxiA/company-logo_200_200/0/1700873221977/bellande_mechanical_electrical_engineering_research_innovation_center_logo?e=1723075200&v=beta&t=yOKZdM8UOnFeocW8CphfsTmSb_6ZhU8UjFojDt7pH6k" alt="Bellande Technologies Corporation Logo" width="600"/>
+
+---------------------------------
+---------------------------------
+
 ##### **Organization Website**
 ---------------------------------
 ![Organization Logo](https://github.com/Artificial-Intelligence-Computer-Vision.png)
