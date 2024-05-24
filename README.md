@@ -20,6 +20,8 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
 
 # 💬 Information
+  - ✨  ORCID Profile: https://orcid.org/0009-0005-7020-517X
+  - 👋  Linkedin: https://www.linkedin.com/in/ronaldson-bellande-5b9699178/
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite
   - 🌱  HuggingFace(AI/ML Related): https://huggingface.co/RonaldsonBellande 
   - 💼  ROS Discussion Forms: https://discourse.ros.org/u/RonaldsonBellande/summary
