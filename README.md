@@ -17,7 +17,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
   - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
-  - 📧  University Email reach me at: Ronaldson_Bellande@student.uml.edu
 
 # 💬 Information
   - 🌱 Orvium Profile: https://dapp.orvium.io/profile/ronaldson-bellande
