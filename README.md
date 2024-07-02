@@ -1,9 +1,20 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
-# 📚 About Me &  My Interest:
+# 📚 About Me & My Interest:
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>
 
 I'm currently a graduate student attending University, Focusing in Robotics, Robotic Learning, Humanoid Robots, Robotic Suits, Autonomous Robot, Robotic System, Robotic Interface, Robotic Architecture, Robotic-Human Interaction Control, Web Development, Artificial Intelligence, Sensors, Sensor Engineering, Computer Vision, Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Data Analysis, Data Mining, Robotics Data Mining, Health Data Analysis, Data Analysis, Virtual Reality, Robotic Interface Visualization, Alternate Energy Source, Battery, Electric Engine Engineering, 3D Printing, Space Technologies, User Interface/User Experience, Game Design, Simulation, Simulated Artificial Intelligence, Simulation of Artificial World, Physics, Mathematics, Chemistry. There is a lot of topic I want to focus on but they are half a decade far-off and will want to focus on those topics during a later time. I want to focus doing research on those topic since I will be needing them later on in my career.
+
+# 🔭 Position
+- 💼 PhD Student
+- 💼 Admin/Moderator of Orvium Research Paper Robotics Community: https://dapp.orvium.io/communities/6657d75176815c16250dbbff/view
+- 💼 CEO/CTO/COO of Bellande Technologies Corperation Inc
+- 💼 Director/Presitent of Bellande Robotics Sensors Research Innovation Center
+- 💼 Director/Presitent of Bellande Artifitial Inteligence Computer Vision Research Innovation Center
+- 💼 Director/President of Bellande Application UI/UX Research Innovation Center
+- 💼 Director/President of Bellande Algorithm Model Research Innovation Center
+- 💼 Director/President of Bellande Mechanical Electrical Research Innovation Center
+- 💼 Director of Bellande Laboratories
 
 
 # 👯 Emails Contacts:
@@ -14,7 +25,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   - 📧  **{BAIXRI}** Research Innovations Organization Email reach me at: ronaldsonbellande@bellande-application-ui-ux-research-innovation-center.org
   - 📧  **{BAMRI}** Research Innovations Organization Email reach me at: ronaldsonbellande@bellande-algorithm-model-research-innovation-center.org
   - 📧  **Bellande Laboratories** Research Innovations Laboratories Email reach me at: ronaldsonbellande@bellande-laboratories.org
-
   - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
 
