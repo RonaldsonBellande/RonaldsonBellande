@@ -7,14 +7,14 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 # 🔭 Position
 - 💼 PhD Student
-- 💼 Admin/Moderator of Orvium Research Paper Robotics Community: https://dapp.orvium.io/communities/6657d75176815c16250dbbff/view
-- 💼 CEO/CTO/COO of Bellande Technologies Corperation Inc
-- 💼 Director/Presitent of Bellande Robotics Sensors Research Innovation Center
-- 💼 Director/Presitent of Bellande Artifitial Inteligence Computer Vision Research Innovation Center
-- 💼 Director/President of Bellande Application UI/UX Research Innovation Center
-- 💼 Director/President of Bellande Algorithm Model Research Innovation Center
-- 💼 Director/President of Bellande Mechanical Electrical Research Innovation Center
-- 💼 Director of Bellande Laboratories
+- 💼 Administrator/Moderator of Orvium Research Paper Robotics Community: https://dapp.orvium.io/communities/6657d75176815c16250dbbff/view
+- 💼 Founder/CEO/CTO/COO of Bellande Technologies Corperation Inc
+- 💼 Founder/Executive Director/Presitent of Bellande Robotics Sensors Research Innovation Center
+- 💼 Founder/Executive Director/Presitent/Presitent of Bellande Artifitial Inteligence Computer Vision Research Innovation Center
+- 💼 Founder/Executive Director/Presitent/President of Bellande Application UI/UX Research Innovation Center
+- 💼 Founder/Executive Director/Presitent/President of Bellande Algorithm Model Research Innovation Center
+- 💼 Founder/Executive Director/Presitent/President of Bellande Mechanical Electrical Research Innovation Center
+- 💼 Founder/Executive Director/Presitent of Bellande Laboratories
 
 
 # 👯 Emails Contacts:
