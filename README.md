@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D4E16AQFYfwgR7nF52g/profile-displaybackgroundimage-shrink_350_1400/0/1704844134985?e=1726099200&v=beta&t=WnYXLjb0vqrVn6U7_d8BCbrU_WUkc_XHiZ2OmSTzSgs" alt="Bellande Organizations & Company" width="2000"/>
+
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
 # 📚 About Me & My Interest:
