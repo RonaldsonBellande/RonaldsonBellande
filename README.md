@@ -1,6 +1,69 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQFYfwgR7nF52g/profile-displaybackgroundimage-shrink_350_1400/0/1704844134985?e=1726099200&v=beta&t=WnYXLjb0vqrVn6U7_d8BCbrU_WUkc_XHiZ2OmSTzSgs" alt="Bellande Organizations & Company" width="2000"/>
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
+  
+  
+## ⚡ Bellande Creation By Name:
+
+<table><tr><td valign="top" width="20%">
+<!-- starts -->
+  
+###### **Robotics (ROS) / Robotic Learning / Humanoid Robotic / Legged Robots / Robot Mimicking / Operating System ||||||||||| BY NAME** 
+-----------
+- Bellande Robotics
+- Bellande Robotic Algorithm
+- Bellande Humanoid Robotics
+- Bellande Sensors
+- Bellande Robotic Operating System
+
+    
+<!-- ends -->
+</td><td valign="top" width="20%">
+<!-- starts --> 
+  
+###### **AI / ML / RL / DRL / Data Analysis / Computer Vision / Speech Detection / NLP / Security ||||||||||| BY NAME**
+-----------
+- Bellande Artificial Intelligence
+- Bellande Models
+- Bellande Reinforcement Learning
+- Bellande Deep Reinforcement Learnoing
+- Bellande COmputer Vision
+- Bellande Speech
+- Bellande Framework
+- Bellande Algorithm
+- Bellande Security
+
+
+</td><td valign="top" width="20%">
+<!-- starts -->
+
+###### **UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining ||||||||||| BY NAME**
+-----------
+- Bellande Operating System
+- Bellande Operating System Package
+- Bellande Operating System Package Manager
+- Bellande Mobile
+- Bellande Desktop Application
+- Bellande API
+- Bellande Application
+- Bellande Web Application
+
+    
+<!-- ends -->
+</td><td valign="top" width="20%">
+<!-- starts -->
+  
+###### **Electrical & Mechanical Design ||||||||||| BY NAME**
+-----------
+- Bellande Electrical
+- Bellande Mechanical
+- Bellande Electrical Design
+- Bellande Mechanical Design
+
+  
+<!-- ends -->
+</td></tr></table>
+
 
 # 📚 About Me & My Interest:
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>
@@ -198,7 +261,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 </td><td valign="top" width="20%">
 <!-- starts -->
 
-###### *UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining*
+###### **UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining**
 -----------
 [![](https://github-readme-stats.vercel.app/api/pin/?username=application-ui-ux&repo=mobile_catkin_modules_build_development_tools)](https://github.com/application-ui-ux/mobile_catkin_modules_build_development_tools)
 
