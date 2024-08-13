@@ -11,9 +11,10 @@
 ###### **Robotics (ROS) / Robotic Learning / Humanoid Robotic / Legged Robots / Robot Mimicking / Operating System ||||||||||| BY NAME** 
 -----------
 - Bellande Robotics
-- Bellande Robotic Algorithm
+- Bellande Robotic Algorithms
 - Bellande Humanoid Robotics
 - Bellande Sensors
+- Bellande Robotic Mimicking
 - Bellande Robotic Operating System
 
     
@@ -25,19 +26,21 @@
 -----------
 - Bellande Artificial Intelligence
 - Bellande Models
+- Bellande Continuous
+- Bellande Adaptive
 - Bellande Reinforcement Learning
 - Bellande Deep Reinforcement Learnoing
-- Bellande COmputer Vision
+- Bellande Computer Vision
 - Bellande Speech
 - Bellande Framework
-- Bellande Algorithm
+- Bellande Algorithms
 - Bellande Security
 
 
 </td><td valign="top" width="20%">
 <!-- starts -->
 
-###### **UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining ||||||||||| BY NAME**
+###### **UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining / System ||||||||||| BY NAME**
 -----------
 - Bellande Operating System
 - Bellande Operating System Package
@@ -47,6 +50,7 @@
 - Bellande API
 - Bellande Application
 - Bellande Web Application
+- Bellande 
 
     
 <!-- ends -->
