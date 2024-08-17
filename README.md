@@ -29,7 +29,7 @@
 - Bellande Continuous
 - Bellande Adaptive
 - Bellande Reinforcement Learning
-- Bellande Deep Reinforcement Learnoing
+- Bellande Deep Reinforcement Learning
 - Bellande Computer Vision
 - Bellande Speech
 - Bellande Framework
