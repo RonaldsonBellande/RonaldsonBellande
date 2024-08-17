@@ -50,7 +50,6 @@
 - Bellande API
 - Bellande Application
 - Bellande Web Application
-- Bellande 
 
     
 <!-- ends -->
