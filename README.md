@@ -95,7 +95,7 @@
 </td><td valign="top" width="16.66%">
 <!-- starts -->
 
-###### **Embedded Systems / IoT / Networking ||||||||||| BY NAME**
+###### **Embedded Systems / IoT / Networking / Advanced Technologies ||||||||||| BY NAME**
 -----------
 - Bellande Embedded Systems
 - Bellande IoT Devices
@@ -110,13 +110,6 @@
 - Bellande Low-Power Design
 - Bellande Blockchain for IoT
 - Bellande Industrial IoT
-
-<!-- ends -->
-</td><td valign="top" width="16.66%">
-<!-- starts -->
-
-###### **Advanced Technologies / Research Areas ||||||||||| BY NAME**
------------
 - Bellande Biotechnology
 - Bellande AR/VR Systems
 - Bellande Autonomous Vehicles
