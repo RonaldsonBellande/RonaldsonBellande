@@ -5,7 +5,7 @@
   
 ## ⚡ Bellande Creation By Name:
 
-<table><tr><td valign="top" width="20%">
+<table><tr><td valign="top" width="16.66%">
 <!-- starts -->
   
 ###### **Robotics (ROS) / Robotic Learning / Humanoid Robotic / Legged Robots / Robot Mimicking / Operating System ||||||||||| BY NAME** 
@@ -16,10 +16,16 @@
 - Bellande Sensors
 - Bellande Robotic Mimicking
 - Bellande Robotic Operating System
-
+- Bellande Legged Locomotion
+- Bellande Robot Navigation
+- Bellande Robotic Manipulation
+- Bellande Swarm Robotics
+- Bellande Soft Robotics
+- Bellande Robot Perception
+- Bellande Human-Robot Interaction
     
 <!-- ends -->
-</td><td valign="top" width="20%">
+</td><td valign="top" width="16.66%">
 <!-- starts --> 
   
 ###### **AI / ML / RL / DRL / Data Analysis / Computer Vision / Speech Detection / NLP / Security ||||||||||| BY NAME**
@@ -35,9 +41,15 @@
 - Bellande Framework
 - Bellande Algorithms
 - Bellande Security
+- Bellande Natural Language Processing
+- Bellande Data Mining
+- Bellande Deep Learning
+- Bellande Federated Learning
+- Bellande Explainable AI
+- Bellande AI Ethics
 
-
-</td><td valign="top" width="20%">
+<!-- ends -->
+</td><td valign="top" width="16.66%">
 <!-- starts -->
 
 ###### **UX/UI Design/ App & Web Development / OS Application / Robotic Data Mining / System ||||||||||| BY NAME**
@@ -50,10 +62,17 @@
 - Bellande API
 - Bellande Application
 - Bellande Web Application
-
+- Bellande UX Design
+- Bellande UI Components
+- Bellande Frontend Framework
+- Bellande Backend Services
+- Bellande Cloud Services
+- Bellande DevOps Tools
+- Bellande Microservices Architecture
+- Bellande Progressive Web Apps
     
 <!-- ends -->
-</td><td valign="top" width="20%">
+</td><td valign="top" width="16.66%">
 <!-- starts -->
   
 ###### **Electrical & Mechanical Design ||||||||||| BY NAME**
@@ -62,8 +81,54 @@
 - Bellande Mechanical
 - Bellande Electrical Design
 - Bellande Mechanical Design
-
+- Bellande Circuit Design
+- Bellande PCB Layout
+- Bellande CAD Modeling
+- Bellande 3D Printing
+- Bellande MEMS Design
+- Bellande Power Systems
+- Bellande Thermal Management
+- Bellande Signal Integrity
+- Bellande Mechatronics
   
+<!-- ends -->
+</td><td valign="top" width="16.66%">
+<!-- starts -->
+
+###### **Embedded Systems / IoT / Networking ||||||||||| BY NAME**
+-----------
+- Bellande Embedded Systems
+- Bellande IoT Devices
+- Bellande Sensor Networks
+- Bellande Microcontroller Programming
+- Bellande Network Protocols
+- Bellande Wireless Communication
+- Bellande Edge Computing
+- Bellande Device Management
+- Bellande IoT Security
+- Bellande RTOS
+- Bellande Low-Power Design
+- Bellande Blockchain for IoT
+- Bellande Industrial IoT
+
+<!-- ends -->
+</td><td valign="top" width="16.66%">
+<!-- starts -->
+
+###### **Advanced Technologies / Research Areas ||||||||||| BY NAME**
+-----------
+- Bellande Biotechnology
+- Bellande AR/VR Systems
+- Bellande Autonomous Vehicles
+- Bellande Space Technologies
+- Bellande Energy Harvesting
+- Bellande Cybersecurity Research
+- Bellande Cognitive Computing
+- Bellande Synthetic Biology
+- Bellande Advanced Materials
+- Bellande Fusion Energy
+- Bellande Sustainable Technologies
+
 <!-- ends -->
 </td></tr></table>
 
