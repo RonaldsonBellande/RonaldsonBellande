@@ -75,7 +75,7 @@
 </td><td valign="top" width="16.66%">
 <!-- starts -->
   
-###### **Electrical & Mechanical Design ||||||||||| BY NAME**
+###### **Electrical/Mechanical & Science ||||||||||| BY NAME**
 -----------
 - Bellande Electrical
 - Bellande Mechanical
@@ -90,6 +90,9 @@
 - Bellande Thermal Management
 - Bellande Signal Integrity
 - Bellande Mechatronics
+- Bellande HealthCare
+- Bellande Chemistry
+- Bellande Physics
   
 <!-- ends -->
 </td><td valign="top" width="16.66%">
