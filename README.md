@@ -233,11 +233,11 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 ![Organization Logo](https://github.com/Architecture-Mechanism.png)
 
-[![Algorithm Model Research](https://img.shields.io/badge/Algorithm%20Model%20Research%20Website-blue?style=for-the-badge&logo=github)](https://algorithm-model-research.github.io)
+[![Algorithm Model Research](https://img.shields.io/badge/Architecture%20Mechanism%20Website-blue?style=for-the-badge&logo=github)](https://algorithm-model-research.github.io)
 
 ##### **Organization Repository**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Algorithm-Model-Research&repo=.github)](https://github.com/Algorithm-Model-Research)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Architecture-Mechanism&repo=.github)](https://github.com/Architecture-Mechanism)
 
   
 <!-- ends -->
