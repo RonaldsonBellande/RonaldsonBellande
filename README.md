@@ -231,13 +231,14 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Organization Website**
 ---------------------------------
-![Organization Logo](https://github.com/Algorithm-Model-Research.png)
+![Organization Logo](https://github.com/Architecture-Mechanism.png)
 
 [![Algorithm Model Research](https://img.shields.io/badge/Algorithm%20Model%20Research%20Website-blue?style=for-the-badge&logo=github)](https://algorithm-model-research.github.io)
 
 ##### **Organization Repository**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Algorithm-Model-Research&repo=.github)](https://github.com/Algorithm-Model-Research)
+
   
 <!-- ends -->
 </td></tr></table>
