@@ -134,7 +134,7 @@
 I'm currently a graduate student attending University, Focusing in Robotics, Robotic Learning, Humanoid Robots, Robotic Suits, Autonomous Robot, Robotic System, Robotic Interface, Robotic Architecture, Robotic-Human Interaction Control, Web Development, Artificial Intelligence, Sensors, Sensor Engineering, Computer Vision, Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Data Analysis, Data Mining, Robotics Data Mining, Health Data Analysis, Data Analysis, Virtual Reality, Robotic Interface Visualization, Alternate Energy Source, Battery, Electric Engine Engineering, 3D Printing, Space Technologies, User Interface/User Experience, Game Design, Simulation, Simulated Artificial Intelligence, Simulation of Artificial World, Physics, Mathematics, Chemistry. There is a lot of topic I want to focus on but they are half a decade far-off and will want to focus on those topics during a later time. I want to focus doing research on those topic since I will be needing them later on in my career.
 
 # 💼 Research
-- Researchers all around the world are invited to collaborate, contribute, and make use of our resource, organizations, company and labratories. Your insights, expertise and contribution are welcomed!
+- Researchers all around the world are invited to collaborate, contribute, and make use of our resource, organizations, company and labratories to advance science, technology, engineering and math. Your insights, expertise and contribution are welcome!
 
 # 🔭 Position:
 - 💼 PhD Student
