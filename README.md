@@ -153,7 +153,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   - 📧  **{BRSRI}** Research Innovations Organization Email reach me at: ronaldsonbellande@bellande-robotics-sensors-research-innovation-center.org
   - 📧  **{BARCVRI}** Research Innovations Organization Email reach me at: ronaldsonbellande@bellande-artificial-intelligence-computer-vision-research-innovation-center.org
   - 📧  **{BAIXRI}** Research Innovations Organization Email reach me at: ronaldsonbellande@bellande-application-ui-ux-research-innovation-center.org
-  - 📧  **{BAMRI}** Research Innovations Organization Email reach me at: ronaldsonbellande@bellande-algorithm-model-research-innovation-center.org
+  - 📧  **{BAMRI}** Research Innovations Organization Email reach me at: ronaldsonbellande@bellande-architecture-mechanism-research-innovation-center.org
   - 📧  **Bellande Laboratories** Research Innovations Laboratories Email reach me at: ronaldsonbellande@bellande-laboratories.org
   - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
