@@ -197,7 +197,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Organization Website**
 ---------------------------------
-![Organization Logo](https://github.com/Application-UI-UX.png)
+![Organization Logo](https://github.com/Application-Interoperability-Xenogen.png)
 
 [![Application UI UX Research](https://img.shields.io/badge/Application%20UI%20UX%20Research%20Website-blue?style=for-the-badge&logo=github)](https://application-ui-ux.github.io)
 
