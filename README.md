@@ -199,7 +199,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 ![Organization Logo](https://github.com/Application-Interoperability-Xenogen.png)
 
-[![Application Interoperability Xenogen Research](https://img.shields.io/badge/Application%20UI%20UX%20Research%20Website-blue?style=for-the-badge&logo=github)](https://application-interoperability-xenogen.github.io)
+[![Application Interoperability Xenogen Research](https://img.shields.io/badge/Application%20Interoperability%20Xenogen%20Research%20Website-blue?style=for-the-badge&logo=github)](https://application-interoperability-xenogen.github.io)
 
 ##### **Organization Repository**
 
