@@ -199,11 +199,11 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 ![Organization Logo](https://github.com/Application-Interoperability-Xenogen.png)
 
-[![Application UI UX Research](https://img.shields.io/badge/Application%20UI%20UX%20Research%20Website-blue?style=for-the-badge&logo=github)](https://application-ui-ux.github.io)
+[![Application Interoperability Xenogen Research](https://img.shields.io/badge/Application%20UI%20UX%20Research%20Website-blue?style=for-the-badge&logo=github)](https://application-interoperability-xenogen.github.io)
 
 ##### **Organization Repository**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Application-Interoperability-Xenogen-UX&repo=.github)](https://github.com/Application-Interoperability-Xenogen)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Application-Interoperability-Xenogen&repo=.github)](https://github.com/Application-Interoperability-Xenogen)
 
   
 <!-- ends -->
