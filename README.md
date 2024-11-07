@@ -179,6 +179,12 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 <img src="https://media.licdn.com/dms/image/D4E0BAQH6IpMUQwWBSw/company-logo_200_200/0/1700626427012/bellande_technologies_corporation_logo?e=2147483647&v=beta&t=2Lep6l-XoXvgUgWAl5wqx-neHMAp5Fh-BvezXPjgc0U" alt="Bellande Technologies Corporation Logo" width="600"/>
 
+[![Bellande Technologies](https://img.shields.io/badge/Bellande%20Technologies%20Website-blue?style=for-the-badge&logo=website)](https://www.bellande-technologies.com)
+
+#### **Company Git Repository**
+
+[![Bellande Technologies Git](https://img.shields.io/badge/Bellande%20Technologies%20Website-blue?style=for-the-badge&logo=website)](https://git.bellande-technologies.com)
+
 ---------------------------------
 ---------------------------------
 
@@ -188,9 +194,13 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![Robotics Sensors Research](https://img.shields.io/badge/Robotics%20Sensors%20Research%20Website-blue?style=for-the-badge&logo=github)](https://robotics-sensors.github.io)
 
-##### **Organization Repository**
+##### **Organization Github Repository**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Robotics-Sensors&repo=.github)](https://github.com/Robotics-Sensors)
+
+#### **Organization Git Repository**
+
+[![Bellande Technologies Git](https://img.shields.io/badge/Bellande%20Technologies%20Website-blue?style=for-the-badge&logo=website)](https://git.bellande-technologies.com)
 
 ---------------------------------
 ---------------------------------
@@ -205,6 +215,9 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Application-Interoperability-Xenogen&repo=.github)](https://github.com/Application-Interoperability-Xenogen)
 
+#### **Organization Git Repository**
+
+[![Bellande Technologies Git](https://img.shields.io/badge/Bellande%20Technologies%20Website-blue?style=for-the-badge&logo=website)](https://git.bellande-technologies.com)
   
 <!-- ends -->
 </td><td valign="top" width="20%">
@@ -227,6 +240,10 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Artificial-Intelligence-Computer-Vision&repo=.github)](https://github.com/Artificial-Intelligence-Computer-Vision)
 
+#### **Organization Git Repository**
+
+[![Bellande Technologies Git](https://img.shields.io/badge/Bellande%20Technologies%20Website-blue?style=for-the-badge&logo=website)](https://git.bellande-technologies.com)
+
 ---------------------------------
 ---------------------------------
 
@@ -234,12 +251,15 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 ![Organization Logo](https://github.com/Architecture-Mechanism.png)
 
-[![Algorithm Model Research](https://img.shields.io/badge/Architecture%20Mechanism%20Website-blue?style=for-the-badge&logo=github)](https://algorithm-model-research.github.io)
+[![Architecture Mechanism](https://img.shields.io/badge/Architecture%20Mechanism%20Website-blue?style=for-the-badge&logo=github)](https://architecture-mechanism.github.io)
 
 ##### **Organization Repository**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Architecture-Mechanism&repo=.github)](https://github.com/Architecture-Mechanism)
 
+#### **Organization Git Repository**
+
+[![Bellande Technologies Git](https://img.shields.io/badge/Bellande%20Technologies%20Website-blue?style=for-the-badge&logo=website)](https://git.bellande-technologies.com)
   
 <!-- ends -->
 </td></tr></table>
