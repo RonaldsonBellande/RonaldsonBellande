@@ -144,7 +144,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 - 💼 Founder/Executive Director/Presitent/Presitent of Bellande Artifitial Inteligence Computer Vision Research Innovation Center
 - 💼 Founder/Executive Director/Presitent/President of Bellande Application Interoperability Xenogen Research Innovation Center
 - 💼 Founder/Executive Director/Presitent/President of Bellande Architecture Mechanism Research Innovation Center
-- 💼 Founder/Executive Director/Presitent/President of Bellande Mechanical Electrical Research Innovation Center
+- 💼 Founder/Executive Director/Presitent/President of Bellande Mechanical Electrical Engineering Research Innovation Center
 - 💼 Founder/Executive Director/Presitent of Bellande Laboratories
 
 # 👯 Emails Contacts:
