@@ -228,7 +228,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   
 ##### **Bellande Mechanical Electrical Engineering Research Innovation Center Website**
 ---------------------------------
-<img src="https://media.licdn.com/dms/image/D4E0BAQHuX8cr2saxiA/company-logo_200_200/0/1700873221977/bellande_mechanical_electrical_engineering_research_innovation_center_logo?e=1723075200&v=beta&t=yOKZdM8UOnFeocW8CphfsTmSb_6ZhU8UjFojDt7pH6k" alt="Bellande Mechanical Electrical Engineering Logo" width="600"/>
+<img src="https://git.bellande-technologies.com/avatars/d53c6503fc7821efa21fa2e929da8d519c1f64273dc41b08750539d3c3a94eb6?size=200" alt="Bellande Mechanical Electrical Engineering Logo" width="600"/>
 
 [![Mechanical Electrical Engineering Research](https://img.shields.io/badge/Mechanical%20&%20Electrical%20Engineering%20Research%20Website-blue?style=for-the-badge&logo=website)](https://www.bellande-mechanical-electrical-engineering-research-innovation-center.org)
 
