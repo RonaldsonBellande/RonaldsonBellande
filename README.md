@@ -180,7 +180,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 <img src="https://media.licdn.com/dms/image/D4E0BAQH6IpMUQwWBSw/company-logo_200_200/0/1700626427012/bellande_technologies_corporation_logo?e=2147483647&v=beta&t=2Lep6l-XoXvgUgWAl5wqx-neHMAp5Fh-BvezXPjgc0U" alt="Bellande Technologies Corporation Logo" width="600"/>
 
-[![Bellande Technologies](https://img.shields.io/badge/Bellande%20Technologies%20Website-blue?style=for-the-badge&logo=website)](https://www.bellande-technologies.com)
+[![Bellande Technologies](https://img.shields.io/badge/Bellande%20Technologies%20Website-blue?style=for-the-badge&logo=website)](https://bellande-technologies.com)
 
 #### **Company Git Repository Website**
 
