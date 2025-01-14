@@ -171,9 +171,10 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   - 🔭  Fun fact I love to play chess, learn about the Universe and Evolution
 <p>&nbsp;</p>
 
+
 ## ⚡ Bellande Technologies Corporations & Bellande Research Innovation Organizations & Bellande Laboratories:
 
-<table><tr><td valign="top" width="20%">
+<table><tr><td valign="top" width="50%">
 <!-- starts -->
   
 ##### **Bellande Technologies Website**
@@ -194,8 +195,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ![Organization Logo](https://github.com/Robotics-Sensors.png)
 
 [![Robotics Sensors Research](https://img.shields.io/badge/Robotics%20Sensors%20Research%20Website-blue?style=for-the-badge&logo=github)](https://robotics-sensors.github.io)
-
----------------------------------
 
 ##### **Organization Github Repository**
 
@@ -221,11 +220,10 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 #### **Organization Git Repository Website**
 
 [![BAIXRI Git Repository Website](https://img.shields.io/badge/BAIXRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAIXRI)
-  
-<!-- ends -->
-</td><td valign="top" width="20%">
-<!-- starts -->
-  
+
+---------------------------------
+---------------------------------
+
 ##### **Bellande Mechanical Electrical Engineering Research Innovation Center Website**
 ---------------------------------
 <img src="https://git.bellande-technologies.com/avatars/d53c6503fc7821efa21fa2e929da8d519c1f64273dc41b08750539d3c3a94eb6?size=200" alt="Bellande Mechanical Electrical Engineering Logo" width="600"/>
@@ -236,8 +234,9 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![BMEERI Git Repository Website](https://img.shields.io/badge/BMEERI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BMEERI)
 
----------------------------------
----------------------------------
+<!-- ends -->
+</td><td valign="top" width="50%">
+<!-- starts -->
 
 ##### **Bellande Artificial Intelligence Computer Vision Research Innovation Center Website**
 ---------------------------------
@@ -269,7 +268,33 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 #### **Organization Git Repository Website**
 
 [![BAMRI Git Repository Website](https://img.shields.io/badge/BAMRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAMRI)
-  
+
+---------------------------------
+---------------------------------
+
+##### **Bellande International IP Hub Enforce Website**
+---------------------------------
+<img src="https://git.bellande-technologies.com/avatars/0aba7a4ac93ff0257f43e07267523e19ba5d73837aa66014bdda1258b72b4230?size=200" alt="Bellande International IP Hub Enforce Logo" width="600"/>
+
+[![Bellande International IP Hub Enforce](https://img.shields.io/badge/Bellande%20International%20IP%20Hub%20Enforce%20Website-blue?style=for-the-badge&logo=website)](https://git.bellande-technologies.com/Bellande-International-IP-Hub-Enforce)
+
+#### **Organization Git Repository Website**
+
+[![BIIPHE Git Repository Website](https://img.shields.io/badge/BIIPHE%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/Bellande-International-IP-Hub-Enforce)
+
+---------------------------------
+---------------------------------
+
+##### **Bellande Laboratories Website**
+---------------------------------
+<img src="https://git.bellande-technologies.com/avatars/b8203d903b82fd258ad36240bb044dec29bbf9b80dd117c276b580dd13b64502?size=200" alt="Bellande Laboratories Logo" width="600"/>
+
+[![Bellande Laboratories](https://img.shields.io/badge/Bellande%20Laboratories%20Website-blue?style=for-the-badge&logo=website)](https://git.bellande-technologies.com/Bellande-Laboratories)
+
+#### **Organization Git Repository Website**
+
+[![Bellande Laboratories Git Repository Website](https://img.shields.io/badge/Bellande%20Laboratories%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/Bellande-Laboratories)
+
 <!-- ends -->
 </td></tr></table>
   
