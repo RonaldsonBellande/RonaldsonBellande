@@ -280,7 +280,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Bellande International IP Hub Enforce Website**
 ---------------------------------
-<img src="https://git.bellande-technologies.com/avatars/0aba7a4ac93ff0257f43e07267523e19ba5d73837aa66014bdda1258b72b4230?size=200" alt="Bellande International IP Hub Enforce Logo" width="600"/>
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/bellande_international_ip_hub_enforce.png" alt="Bellande International IP Hub Enforce Logo" width="600"/>
 
 [![Bellande International IP Hub Enforce](https://img.shields.io/badge/Bellande%20International%20IP%20Hub%20Enforce%20Website-blue?style=for-the-badge&logo=website)](https://git.bellande-technologies.com/Bellande-International-IP-Hub-Enforce)
 
