@@ -232,7 +232,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Bellande Mechanical Electrical Engineering Research Innovation Center Website**
 ---------------------------------
-<img src="https://git.bellande-technologies.com/avatars/d53c6503fc7821efa21fa2e929da8d519c1f64273dc41b08750539d3c3a94eb6?size=200" alt="Bellande Mechanical Electrical Engineering Logo" width="600"/>
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/BM&EERI_Center.png" alt="Bellande International IP Hub Enforce Logo" width="600"/>
 
 [![Mechanical Electrical Engineering Research](https://img.shields.io/badge/Mechanical%20&%20Electrical%20Engineering%20Research%20Website-blue?style=for-the-badge&logo=website)](https://www.bellande-mechanical-electrical-engineering-research-innovation-center.org)
 
@@ -263,7 +263,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Bellande Architecture Mechanism Research Innovation Center Website**
 ---------------------------------
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/BM&EERI_Center.png" alt="Bellande International IP Hub Enforce Logo" width="600"/>
+![Organization Logo](https://github.com/Architecture-Mechanism.png)
 
 [![Architecture Mechanism](https://img.shields.io/badge/Architecture%20Mechanism%20Website-blue?style=for-the-badge&logo=github)](https://architecture-mechanism.github.io)
 
