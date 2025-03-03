@@ -263,7 +263,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Bellande Architecture Mechanism Research Innovation Center Website**
 ---------------------------------
-![Organization Logo](https://github.com/Architecture-Mechanism.png)
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/BM&EERI_Center.png" alt="Bellande International IP Hub Enforce Logo" width="600"/>
 
 [![Architecture Mechanism](https://img.shields.io/badge/Architecture%20Mechanism%20Website-blue?style=for-the-badge&logo=github)](https://architecture-mechanism.github.io)
 
@@ -293,7 +293,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Bellande Laboratories Website**
 ---------------------------------
-<img src="https://git.bellande-technologies.com/avatars/b8203d903b82fd258ad36240bb044dec29bbf9b80dd117c276b580dd13b64502?size=200" alt="Bellande Laboratories Logo" width="600"/>
+<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/bellande_laboratories.png" alt="Bellande Laboratories Logo" width="600"/>
 
 [![Bellande Laboratories](https://img.shields.io/badge/Bellande%20Laboratories%20Website-blue?style=for-the-badge&logo=website)](https://git.bellande-technologies.com/Bellande-Laboratories)
 
