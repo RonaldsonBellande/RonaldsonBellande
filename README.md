@@ -424,22 +424,6 @@ ALL PRIVATE
 </td></tr></table>
  
  
- 
-## 👨🏻‍💻 My Languages/Tools:
-<div>
-<p align="center">
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/C.svg" alt="c" width="50" height="50"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/Python.png" alt="python" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/JAVA.png" alt="JAVA" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/SQL.png" alt="SQL" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/HTML5.png" alt="html5" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/CSS3.png" alt="css3" width="57" height="55"/> 
-<img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/JavaScript.png" alt="javascript" width="57" height="55"/>
-</div>
-
-
-
 ## 📈 My Stats:     <a href="https://github.com/RonaldsonBellande"> <img src="https://komarev.com/ghpvc/?username=RonaldsonBellande&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
 <a href="https://github.com/RonaldsonBellande">
