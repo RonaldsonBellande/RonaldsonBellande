@@ -2,7 +2,7 @@
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
-# Bellande Git and Storage Intergration for International Company, International Laboratories, International Research Innovation Organizations and International Firm/Solar System Firm
+# Bellande Git and Storage Intergration for International Company, International Laboratories, International Research Innovation Organizations and International Law Firm/Solar System Law Firm
 - https://git.bellande-technologies.com/RonaldsonBellande
 - https://github.com/RonaldsonBellande
 - https://gitlab.com/RonaldsonBellande
