@@ -200,7 +200,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 ![Organization Logo](https://github.com/Robotics-Sensors.png)
 
-[![Robotics Sensors Research](https://img.shields.io/badge/Robotics%20Sensors%20Research%20Website-blue?style=for-the-badge&logo=website)](https://robotics-sensors.github.io)
+[![Robotics Sensors Research](https://img.shields.io/badge/Robotics%20Sensors%20Research%20Website-blue?style=for-the-badge&logo=web)](https://robotics-sensors.github.io)
 
 ##### **Organization Github Organization**
 
