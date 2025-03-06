@@ -183,7 +183,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 <table><tr><td valign="top" width="50%">
 <!-- starts -->
   
-##### **Bellande Technologies Website**
+#### **Bellande Technologies Website**
 ---------------------------------
 <img src="https://media.licdn.com/dms/image/D4E0BAQH6IpMUQwWBSw/company-logo_200_200/0/1700626427012/bellande_technologies_corporation_logo?e=2147483647&v=beta&t=2Lep6l-XoXvgUgWAl5wqx-neHMAp5Fh-BvezXPjgc0U" alt="Bellande Technologies Corporation Logo" width="600"/>
 
@@ -206,9 +206,9 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Robotics-Sensors&repo=.github)](https://github.com/Robotics-Sensors)
 
-##### **Organization Gitlab Repository**
+##### **Organization Gitlab Organization**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Robotics-Sensors&repo=.github)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)
+[![BRSRI Git Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)
 
 #### **Organization Git Repository Website**
 
