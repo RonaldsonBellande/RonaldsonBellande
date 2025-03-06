@@ -3,9 +3,15 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Ronaldson Bellande ⚡ </strong></samp></h2>
 
 # Bellande Git and Storage Intergration for International Company, International Laboratories, International Research Innovation Organizations and International Law Firm/Solar System Law Firm
+## No VPN Needed
 - https://git.bellande-technologies.com/RonaldsonBellande
 - https://github.com/RonaldsonBellande
 - https://gitlab.com/RonaldsonBellande
+
+## VPN Needed
+- Local Git
+- File Storage
+- Local Git Backup
  
 
 ## ⚡ Bellande Creation By Name:
