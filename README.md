@@ -223,13 +223,17 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![Application Interoperability Xenogen Research](https://img.shields.io/badge/Application%20Interoperability%20Xenogen%20Research%20Website-blue?style=for-the-badge&logo=github)](https://application-interoperability-xenogen.github.io)
 
-##### **Organization Repository**
+##### **Organization Github Organization**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Application-Interoperability-Xenogen&repo=.github)](https://github.com/Application-Interoperability-Xenogen)
+[![BAIXRI Github Repository Website](https://img.shields.io/badge/BAIXRI%20Git%20Repository%20Github-blue?style=for-the-badge&logo=github)](https://github.com/Application-Interoperability-Xenogen)
+
+#### **Organization Gitlab Organization**
+
+[![BAIXRI Gitlab Repository Website](https://img.shields.io/badge/BAIXRI%20Git%20Repository%20Gitlab-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)
 
 #### **Organization Git Organization**
 
-[![BAIXRI Git Repository Website](https://img.shields.io/badge/BAIXRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAIXRI)
+[![BAIXRI Git Repository Website](https://img.shields.io/badge/BAIXRI%20Git%20Repository%20Git-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAIXRI)
 
 ---------------------------------
 ---------------------------------
