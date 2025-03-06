@@ -275,7 +275,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![BAICVRI Git Repository Website](https://img.shields.io/badge/BAICVRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovation-Center)
 
-#### **Organization Git Organization**
+##### **Organization Git Organization**
 
 [![BAICVRI Git Repository Website](https://img.shields.io/badge/BAICVRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAICVRI)
 
@@ -286,7 +286,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 ---------------------------------
 
-##### **Bellande Architecture Mechanism Research Innovation Center Website**
+## **Bellande Architecture Mechanism Research Innovation Center Website**
 ---------------------------------
 ![Organization Logo](https://github.com/Architecture-Mechanism.png)
 
@@ -296,15 +296,15 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Architecture-Mechanism&repo=.github)](https://github.com/Architecture-Mechanism)
 
-#### **Organization Github Organization**
+##### **Organization Github Organization**
 
 [![BAMRI Github Repository Website](https://img.shields.io/badge/BAMRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=github)](https://github.com/Architecture-Mechanism)
 
-#### **Organization Gitlab Organization**
+##### **Organization Gitlab Organization**
 
 [![BAMRI Gitlab Repository Website](https://img.shields.io/badge/BAMRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation-Center)
 
-#### **Organization Git Organization**
+##### **Organization Git Organization**
 
 [![BAMRI Git Repository Website](https://img.shields.io/badge/BAMRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAMRI)
 
@@ -314,7 +314,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 ---------------------------------
 
-##### **Bellande International IP Hub Enforce Website**
+## **Bellande International IP Hub Enforce Website**
 ---------------------------------
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/bellande_international_ip_hub_enforce.png" alt="Bellande International IP Hub Enforce Logo" width="600"/>
 
@@ -331,7 +331,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 ---------------------------------
 ---------------------------------
 
-##### **Bellande Laboratories Website**
+## **Bellande Laboratories Website**
 ---------------------------------
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/bellande_laboratories.png" alt="Bellande Laboratories Logo" width="600"/>
 
