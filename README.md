@@ -193,10 +193,13 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![Bellande Technologies Git Repository Website](https://img.shields.io/badge/Bellande%20Technologies%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/Bellande-Technologies-Corperation-Inc)
 
+
+
+
 ---------------------------------
 ---------------------------------
 
-##### **Bellande Robotics Sensors Research Innovation Center Website**
+## **Bellande Robotics Sensors Research Innovation Center Website**
 ---------------------------------
 ![Organization Logo](https://github.com/Robotics-Sensors.png)
 
@@ -210,14 +213,17 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![BRSRI Gitlab Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Gitlab-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)
 
-#### **Organization Git Organization**
+##### **Organization Git Organization**
 
 [![BRSRI Git Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Git-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BRSRI)
 
+
+
+
 ---------------------------------
 ---------------------------------
 
-##### **Bellande Application Interoperability Xenogen Research Innovation Center Website**
+## **Bellande Application Interoperability Xenogen Research Innovation Center Website**
 ---------------------------------
 ![Organization Logo](https://github.com/Application-Interoperability-Xenogen.png)
 
@@ -227,18 +233,21 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![BAIXRI Github Repository Website](https://img.shields.io/badge/BAIXRI%20Git%20Repository%20Github-blue?style=for-the-badge&logo=github)](https://github.com/Application-Interoperability-Xenogen)
 
-#### **Organization Gitlab Organization**
+##### **Organization Gitlab Organization**
 
-[![BAIXRI Gitlab Repository Website](https://img.shields.io/badge/BAIXRI%20Git%20Repository%20Gitlab-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)
+[![BAIXRI Gitlab Repository Website](https://img.shields.io/badge/BAIXRI%20Git%20Repository%20Gitlab-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Application-Interoperability-Xenogen-Research-Innovation-Center)
 
-#### **Organization Git Organization**
+##### **Organization Git Organization**
 
 [![BAIXRI Git Repository Website](https://img.shields.io/badge/BAIXRI%20Git%20Repository%20Git-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAIXRI)
 
+
+
+
 ---------------------------------
 ---------------------------------
 
-##### **Bellande Mechanical Electrical Engineering Research Innovation Center Website**
+## **Bellande Mechanical Electrical Engineering Research Innovation Center Website**
 ---------------------------------
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/BM&EERI_Center.png" alt="Bellande International IP Hub Enforce Logo" width="600"/>
 
@@ -252,19 +261,27 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 </td><td valign="top" width="50%">
 <!-- starts -->
 
-##### **Bellande Artificial Intelligence Computer Vision Research Innovation Center Website**
+## **Bellande Artificial Intelligence Computer Vision Research Innovation Center Website**
 ---------------------------------
 ![Organization Logo](https://github.com/Artificial-Intelligence-Computer-Vision.png)
 
 [![Artificial Intelligence & Computer Vision Research](https://img.shields.io/badge/AI%20&%20Computer%20Vision%20Research%20Website-blue?style=for-the-badge&logo=github)](https://artificial-intelligence-computer-vision.github.io)
 
-##### **Organization Repository**
+##### **Organization Github Organization**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Artificial-Intelligence-Computer-Vision&repo=.github)](https://github.com/Artificial-Intelligence-Computer-Vision)
+[![BAICVRI Git Repository Website](https://img.shields.io/badge/BAICVRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=github)](https://github.com/Artificial-Intelligence-Computer-Vision)
 
-#### **Organization Git Repository Website**
+##### **Organization Gitlab Organization**
+
+[![BAICVRI Git Repository Website](https://img.shields.io/badge/BAICVRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Artificial-Intelligence-Computer-Vision-Research-Innovation-Center)
+
+#### **Organization Git Organization**
 
 [![BAICVRI Git Repository Website](https://img.shields.io/badge/BAICVRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAICVRI)
+
+
+
+
 
 ---------------------------------
 ---------------------------------
@@ -279,9 +296,20 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Architecture-Mechanism&repo=.github)](https://github.com/Architecture-Mechanism)
 
-#### **Organization Git Repository Website**
+#### **Organization Github Organization**
+
+[![BAMRI Github Repository Website](https://img.shields.io/badge/BAMRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=github)](https://github.com/Architecture-Mechanism)
+
+#### **Organization Gitlab Organization**
+
+[![BAMRI Gitlab Repository Website](https://img.shields.io/badge/BAMRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Architecture-Mechanism-Research-Innovation-Center)
+
+#### **Organization Git Organization**
 
 [![BAMRI Git Repository Website](https://img.shields.io/badge/BAMRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAMRI)
+
+
+
 
 ---------------------------------
 ---------------------------------
@@ -295,6 +323,10 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 #### **Organization Git Repository Website**
 
 [![BIIPHE Git Repository Website](https://img.shields.io/badge/BIIPHE%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/Bellande-International-IP-Hub-Enforce)
+
+
+
+
 
 ---------------------------------
 ---------------------------------
