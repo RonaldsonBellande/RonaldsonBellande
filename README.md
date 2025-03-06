@@ -204,15 +204,15 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 ##### **Organization Github Repository**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Robotics-Sensors&repo=.github)](https://github.com/Robotics-Sensors)
+[![BRSRI Github Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Github-blue?style=for-the-badge&logo=github)](https://github.com/Robotics-Sensors)
 
 ##### **Organization Gitlab Organization**
 
-[![BRSRI Git Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)
+[![BRSRI Gitlab Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Gitlab-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)
 
 #### **Organization Git Repository Website**
 
-[![BRSRI Git Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BRSRI)
+[![BRSRI Git Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Git-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BRSRI)
 
 ---------------------------------
 ---------------------------------
