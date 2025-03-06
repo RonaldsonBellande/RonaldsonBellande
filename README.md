@@ -202,7 +202,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![Robotics Sensors Research](https://img.shields.io/badge/Robotics%20Sensors%20Research%20Website-blue?style=for-the-badge&logo=github)](https://robotics-sensors.github.io)
 
-##### **Organization Github Repository**
+##### **Organization Github Organization**
 
 [![BRSRI Github Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Github-blue?style=for-the-badge&logo=github)](https://github.com/Robotics-Sensors)
 
@@ -210,7 +210,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
 
 [![BRSRI Gitlab Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Gitlab-blue?style=for-the-badge&logo=gitlab)](https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation-Center)
 
-#### **Organization Git Repository Website**
+#### **Organization Git Organization**
 
 [![BRSRI Git Repository Website](https://img.shields.io/badge/BRSRI%20Git%20Repository%20Git-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BRSRI)
 
