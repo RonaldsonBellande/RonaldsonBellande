@@ -6,9 +6,9 @@
 
 ## No VPN Needed
 - https://git.bellande-technologies.com/RonaldsonBellande
-- https://storage.bellande-technologies.com/RonaldsonBellande
 - https://github.com/RonaldsonBellande
 - https://gitlab.com/RonaldsonBellande
+- https://bitbucket.org/RonaldsonBellande/workspace/projects/RONA
 
 ## VPN Needed
 - Local Git
