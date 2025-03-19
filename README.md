@@ -175,11 +175,12 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
 
 # 💬 Information
-  - 🌱 Orvium Profile: https://dapp.orvium.io/profile/ronaldson-bellande
+  - 📚  Google Scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUPPpT6fgaXV6GuVVU0Hx6dT1y0JkbZOVg-08Hou_Ag9aOoMluTDAaf5i6SXVgAgSZAhQowmeMQluMJ4VA&user=bpTOlnQAAAAJ
+  - 🌱  Orvium Profile: https://dapp.orvium.io/profile/ronaldson-bellande
   - ✨  ORCID Profile: https://orcid.org/0009-0005-7020-517X
   - 👋  Linkedin: https://www.linkedin.com/in/ronaldson-bellande-5b9699178/
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite
-  - 🌱  HuggingFace(AI/ML Related): https://huggingface.co/RonaldsonBellande 
+  - 🌱  HuggingFace (AI/ML Related): https://huggingface.co/RonaldsonBellande 
   - 💼  ROS Discussion Forms: https://discourse.ros.org/u/RonaldsonBellande/summary
   - ⚡  Docker: https://hub.docker.com/u/ronaldsonbellande
   - 💼  I'm actively researching and learning new technologies
