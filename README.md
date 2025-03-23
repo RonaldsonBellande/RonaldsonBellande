@@ -8,7 +8,7 @@
 - https://git.bellande-technologies.com/RonaldsonBellande
 - https://github.com/RonaldsonBellande
 - https://gitlab.com/RonaldsonBellande
-- https://bitbucket.org/RonaldsonBellande/workspace/projects/RONA
+- https://bitbucket.org/RonaldsonBellande
 
 ## VPN Needed
 - Local Git
