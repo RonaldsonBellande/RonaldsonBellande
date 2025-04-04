@@ -178,6 +178,8 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   - 📚  Google Scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUPPpT6fgaXV6GuVVU0Hx6dT1y0JkbZOVg-08Hou_Ag9aOoMluTDAaf5i6SXVgAgSZAhQowmeMQluMJ4VA&user=bpTOlnQAAAAJ
   - 🌱  Orvium Profile: https://dapp.orvium.io/profile/ronaldson-bellande
   - ✨  ORCID Profile: https://orcid.org/0009-0005-7020-517X
+  - ⚡  Rust Profile: https://crates.io/users/RonaldsonBellande
+  - 🔭  Rust Library Profile: https://lib.rs/~RonaldsonBellande
   - 👋  Linkedin: https://www.linkedin.com/in/ronaldson-bellande-5b9699178/
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite
   - 🌱  HuggingFace (AI/ML Related): https://huggingface.co/RonaldsonBellande 
