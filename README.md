@@ -182,7 +182,6 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   - 📧  **{BAIXRI}** Research Innovations Organization Email reach me at: ronaldsonbellande@bellande-application-interoperability-xenogen-research-innovation-center.org
   - 📧  **{BAMRI}** Research Innovations Organization Email reach me at: ronaldsonbellande@bellande-architecture-mechanism-research-innovation-center.org
   - 📧  **Bellande Laboratories** Research Innovations Laboratories Email reach me at: ronaldsonbellande@bellande-laboratories.org
-  - 📧  Work Email reach me at: Ronaldson.Bellande@softinway.com
   - 📧  Personal Email reach me at: ronaldsonbellande@gmail.com
 
 # 💬 Information
@@ -190,6 +189,7 @@ I'm currently a graduate student attending University, Focusing in Robotics, Rob
   - 🌱  Orvium Profile: https://dapp.orvium.io/profile/ronaldson-bellande
   - ✨  ORCID Profile: https://orcid.org/0009-0005-7020-517X
   - ⚡  Rust Profile: https://crates.io/users/RonaldsonBellande
+  - ⚡  Python Profile: https://pypi.org/user/RonaldsonBellande
   - 🔭  Rust Library Profile: https://lib.rs/~RonaldsonBellande
   - 👋  Linkedin: https://www.linkedin.com/in/ronaldson-bellande-5b9699178/
   - 🔭  Personal Website: https://ronaldsonbellande.github.io/officialronaldsonbellandewebsite
