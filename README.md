@@ -157,13 +157,13 @@
 # 📚 About Me & My Interest:
 <a href="https://github.com/RonaldsonBellande/"><img align="right" width="350" height="213" src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/technology.gif"></a>
 
-I'm currently a graduate student attending University, Focusing in Robotics, Robotic Learning, Humanoid Robots, Robotic Suits, Autonomous Robot, Robotic System, Robotic Interface, Robotic Architecture, Robotic-Human Interaction Control, Web Development, Artificial Intelligence, Sensors, Sensor Engineering, Computer Vision, Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Data Analysis, Data Mining, Robotics Data Mining, Health Data Analysis, Data Analysis, Virtual Reality, Robotic Interface Visualization, Alternate Energy Source, Battery, Electric Engine Engineering, 3D Printing, Space Technologies, User Interface/User Experience, Game Design, Simulation, Simulated Artificial Intelligence, Simulation of Artificial World, Physics, Mathematics, Chemistry. There is a lot of topic I want to focus on but they are half a decade far-off and will want to focus on those topics during a later time. I want to focus doing research on those topic since I will be needing them later on in my career.
+I'm currently a PhD Candidate attending University, Focusing in Robotics, Robotic Learning, Humanoid Robots, Robotic Suits, Autonomous Robot, Robotic System, Robotic Interface, Robotic Architecture, Robotic-Human Interaction Control, Web Development, Artificial Intelligence, Sensors, Sensor Engineering, Computer Vision, Machine Learning, Deep Learning, Deep Neural Network, Neural Network, Deep Reinforcement Learning, Reinforcement Learning, Data Analysis, Data Mining, Robotics Data Mining, Health Data Analysis, Data Analysis, Virtual Reality, Robotic Interface Visualization, Alternate Energy Source, Battery, Electric Engine Engineering, 3D Printing, Space Technologies, User Interface/User Experience, Game Design, Simulation, Simulated Artificial Intelligence, Simulation of Artificial World, Physics, Mathematics, Chemistry. There is a lot of topic I want to focus on but they are half a decade far-off and will want to focus on those topics during a later time. I want to focus doing research on those topic since I will be needing them later on in my career.
 
 # 💼 Research
 - Researchers from all countries, companies, and laboratories, are encouraged to collaborate and utilize our resources to advance science, technology, engineering, and mathematics. We welcome your insights, expertise, and contributions!
 
 # 🔭 Position:
-- 💼 PhD Student
+- 💼 PhD Candidate
 - 💼 Founder/Administrator/Moderator of Orvium Robotics (Research/Preprint/Publication/Articles) Paper Community: https://dapp.orvium.io/communities/6657d75176815c16250dbbff/view
 - 💼 Bellande Company, Bellande Research Organizations Centers, Bellande Laboratories Git Hosting Websites: https://git.bellande-technologies.com
 - 💼 Founder/CEO/CTO/COO of Bellande Technologies Corperation Inc
