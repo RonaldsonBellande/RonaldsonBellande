@@ -201,6 +201,18 @@ I'm currently a PhD Candidate attending University, Focusing in Robotics, Roboti
 <p>&nbsp;</p>
 
 
+## Countries Bellande Entities Operate In/Will Operate In
+- United States
+- Switzerland
+- Canada
+- United Arab Emirates
+- Germany
+- Turkey
+- Australia
+- Chile
+- Cyprus
+
+
 ## ⚡ Bellande Technologies Corporations & Bellande Research Innovation Organizations & Bellande Laboratories:
 
 <table><tr><td valign="top" width="50%">
