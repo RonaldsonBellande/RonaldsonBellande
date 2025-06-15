@@ -211,6 +211,7 @@ I'm currently a PhD Candidate attending University, Focusing in Robotics, Roboti
 - Australia
 - Chile
 - Cyprus
+- Japan
 
 
 ## ⚡ Bellande Technologies Corporations & Bellande Research Innovation Organizations & Bellande Laboratories:
