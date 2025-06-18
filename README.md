@@ -163,9 +163,13 @@ I am a PhD Candidate and JD Student with a passion for advancing the frontiers o
 My academic and research interests encompass a broad spectrum of innovative fields:
 
 **Robotics & Automation:** Robotics, Robotic Learning, Humanoid Robots, Robotic Suits, Autonomous Systems, Robotic Architecture, Robotic-Human Interaction Control, and Robotic Interface Development
+
 **Artificial Intelligence & Machine Learning:** Deep Learning, Neural Networks, Computer Vision, Deep Reinforcement Learning, Machine Learning, and Simulated AI Environments
+
 **Data Science & Analysis:** Data Mining, Robotics Data Mining, Health Data Analysis, and Advanced Analytics
+
 **Engineering & Technology:** Sensor Engineering, Web Development, 3D Printing, Alternative Energy Sources, Battery Technology, Electric Engine Engineering, and Space Technologies
+
 **Interdisciplinary Studies:** Physics, Mathematics, Chemistry, International Law, Jurisdictional Law, Virtual Reality, User Interface/User Experience Design, Game Design, and Simulation Technologies
 
 While my current focus centers on these areas, I have identified additional research domains that I plan to explore in the coming years as part of my long-term career development strategy.
