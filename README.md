@@ -230,6 +230,8 @@ Through these diverse roles, I am committed to fostering innovation, advancing s
 
 
 ## Countries Bellande Entities Operate In/Will Operate In
+- United Kingdom
+- France
 - United States
 - Switzerland
 - Canada
