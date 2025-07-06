@@ -184,13 +184,18 @@ Researchers from all countries, companies, and laboratories are encouraged to co
     - 💼 JD Student
 
 ### **Research Community Leadership:**
-    - 💼 Founder/Administrator/Moderator of Orvium Robotics Research Community
+    - Founder/Administrator/Moderator of Orvium Robotics Research Community
     - Platform for Research/Preprint/Publication/Articles
     - Community Link: https://dapp.orvium.io/communities/6657d75176815c16250dbbff/view
 
 ### **Corporate Leadership:**
     - 💼 Founder/CEO/CTO/COO of Bellande Technologies Corporation Inc
-    - 💼 Git Hosting Operations: https://git.bellande-technologies.com
+
+### **Firm:**
+    -  Founder/Director/International Regulatory Officer/International IP Enforcer Officer/IP Investigator of Bellande International IP Hub Enforce
+
+### **Laboratories:**
+    - 💼 Founder/Executive Director/President of Bellande Laboratories
 
 ### **Research Innovation Centers:**
     - 💼 Founder/Executive Director/President of Bellande Robotics Sensors Research Innovation Center
@@ -198,7 +203,6 @@ Researchers from all countries, companies, and laboratories are encouraged to co
     - 💼 Founder/Executive Director/President of Bellande Application Interoperability Xenogen Research Innovation Center
     - 💼 Founder/Executive Director/President of Bellande Architecture Mechanism Research Innovation Center
     - 💼 Founder/Executive Director/President of Bellande Mechanical Electrical Engineering Research Innovation Center
-    - 💼 Founder/Executive Director/President of Bellande Laboratories
 
 Through these diverse roles, I am committed to fostering innovation, advancing scientific knowledge, and building collaborative networks that drive technological progress across multiple disciplines.
 
