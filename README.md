@@ -219,6 +219,7 @@ Through these diverse roles, I am committed to fostering innovation, advancing s
 # 💬 Information
   - 📚  Google Scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUPPpT6fgaXV6GuVVU0Hx6dT1y0JkbZOVg-08Hou_Ag9aOoMluTDAaf5i6SXVgAgSZAhQowmeMQluMJ4VA&user=bpTOlnQAAAAJ
   - 📚  ResearchGate: https://www.researchgate.net/profile/Ronaldson-Bellande-2
+  - 📚  ScienceOpen: https://www.scienceopen.com/user/202fdb23-b38b-41ec-a3a2-817747f2a86a
   - 📚  OpenReview: https://openreview.net/profile?id=%7ERonaldson_Bellande2
   - 🌱  Orvium Profile: https://dapp.orvium.io/profile/ronaldson-bellande
   - ✨  ORCID Profile: https://orcid.org/0009-0005-7020-517X
