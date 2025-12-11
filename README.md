@@ -181,8 +181,7 @@ Researchers from all countries, companies, and laboratories are encouraged to co
 
 ### **Academic Positions:**
     - 💼 PhD Candidate
-    - 💼 JD Student
-
+    
 ### **Research Community Leadership:**
     - Founder/Administrator/Moderator of Orvium Robotics Research Community
     - Platform for Research/Preprint/Publication/Articles
